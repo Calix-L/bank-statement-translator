@@ -1,50 +1,41 @@
 # 🏦 Bank Statement Translator
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[English](README.md) | [简体中文](README.zh-CN.md)
 
-[English](#english) | [简体中文](#简体中文)
-
-Translate Chinese bank statement PDFs into polished English outputs — perfect for visa applications, immigration, and international financial workflows.
+Translate Chinese bank statement PDFs into clean English outputs — perfect for visa applications and international financial workflows.
 
 ---
 
-## English
+## Overview
 
-### Overview
+A local-first Python toolkit that converts Chinese bank statement PDFs into polished English documents while preserving the original layout as closely as possible.
 
-A local-first Python toolkit that converts Chinese bank statement PDFs into clean English documents while preserving the original layout as closely as possible.
+- **Input**: Chinese bank statement PDF (ICBC supported)
+- **Output**: English PDF (layout-preserved) or structured Excel
 
-**Input** → **Output**
-- Chinese ICBC bank statement PDF → English PDF (layout-preserved)
-- Optional: Structured English Excel workbook
+This project focuses on real-world statement translation, optimized specifically for banking documents rather than generic PDF conversion.
 
-### Why This Project?
+### Current Scope
 
-Existing OCR/translation tools are either:
-- Too generic (don't understand banking terminology)
-- Too expensive (cloud services)
-- Lose important visual elements (stamps, QR codes, tables)
+- **Supported Bank**: Industrial and Commercial Bank of China (ICBC) only
+- **Primary Use Case**: Visa application preparation
+- **OCR Provider**: Baidu PaddleOCR API
+- **Translation Provider**: Zhipu GLM API
 
-This project solves these problems with banking-specific optimization.
+---
 
-### Features
+## Features
 
-| Feature | Description |
-|---------|-------------|
-| 🏦 **Banking-Optimized** | 500+ banking & payment terms, ICBC-specific parsing |
-| 🎨 **Layout Preservation** | Keeps stamps, QR codes, tables, and formatting |
-| 🔍 **Smart OCR** | Baidu PaddleOCR for scanned documents |
-| 📦 **Dual Output** | Both PDF and Excel formats |
-| ⚡ **Caching** | 10x faster for repeated processing |
-| 🐳 **Docker Ready** | One-click deployment |
+- 🎨 **Layout Preservation** — Keeps stamps, QR codes, tables, and formatting
+- 🔍 **Smart OCR** — Baidu PaddleOCR for scanned documents
+- 📦 **Dual Output** — Both PDF and Excel formats
+- 💾 **Caching** — Built-in translation cache for faster repeated processing
+- ⚡ **Rate Limiting** — Smart API rate limiting to prevent throttling
+- ✅ **Well Tested** — Comprehensive test suite
 
-### Supported Banks
+---
 
-- ✅ Industrial and Commercial Bank of China (ICBC)
-- 🔄 More banks coming soon
-
-### Quick Start
+## Quick Start
 
 ```bash
 # 1. Install dependencies
@@ -52,7 +43,7 @@ pip install -r requirements.txt
 
 # 2. Configure API keys
 cp .env.example .env
-# Edit .env with your keys:
+# Edit .env with:
 #   - ZHIPU_API_KEY (from https://open.bigmodel.cn/)
 #   - OCR_TOKEN (from https://aistudio.baidu.com/)
 
@@ -60,7 +51,9 @@ cp .env.example .env
 python run_word_translator_pipeline.py "statement.pdf" -o "statement_en.pdf"
 ```
 
-### Usage
+---
+
+## Usage
 
 ```bash
 # PDF translation
@@ -76,28 +69,35 @@ python cli.py --help
 pytest tests -v
 ```
 
-### Project Structure
+---
+
+## Project Structure
 
 ```
-bank_statement_translator/
-├── app.py                     # Streamlit UI
-├── cli.py                     # CLI entry point
-├── run_word_translator_pipeline.py  # Simple PDF→PDF command
-├── word_translator.py         # Main translation pipeline
-├── word_layout.py            # PDF layout & rendering
-├── translator.py             # Text translation logic
-├── glossary.py              # Terminology builder
-├── terms/                   # Banking/payment terms
-│   ├── banking_terms.py
-│   ├── payment_terms.py
-│   └── readable_terms.py
-├── pdf_parser.py            # PDF text extraction
-├── statement_structurer.py   # Statement row parsing
-├── excel_generator.py       # Excel export
-└── tests/                   # Test suite
+app.py                          Streamlit UI
+cli.py                          CLI entry point
+run_word_translator_pipeline.py Simplest PDF-to-PDF command
+word_translator.py              Translation pipeline orchestration
+word_layout.py                  PDF layout and rendering helpers
+translator.py                   Text and DataFrame translation logic
+glossary.py                     Main glossary builder
+terms/                          Banking and payment term dictionaries
+    banking_terms.py           # Banking terminology
+    payment_terms.py           # Payment platforms
+    readable_terms.py          # Readability improvements
+    garbled_terms.py          # OCR garble mappings
+pdf_parser.py                   PDF text extraction
+statement_structurer.py         Statement row parsing
+excel_generator.py              Excel export
+config.py                       Configuration
+cache.py                        Translation caching
+rate_limiter.py                 API rate limiting
+tests/                          Test suite
 ```
 
-### Environment Variables
+---
+
+## Environment Variables
 
 | Variable | Required | Description |
 |----------|----------|-------------|
@@ -105,123 +105,31 @@ bank_statement_translator/
 | `OCR_TOKEN` | ✅ | Baidu PaddleOCR token |
 | `ZHIPU_MODEL` | ❌ | Model (default: glm-4-flash) |
 | `TARGET_LANGUAGE` | ❌ | Target language (default: English) |
+| `ENABLE_CACHE` | ❌ | Enable caching (default: true) |
 
-### Development
+---
+
+## Development
 
 ```bash
 make install    # Install dependencies
 make test       # Run tests
 make lint       # Lint code
 make format     # Format code
+make check      # Full check
 make run        # Run Streamlit
 make translate  # Quick translate
+make clean      # Clean temp files
 ```
 
-### License
+---
+
+## License
 
 MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 简体中文
+## Contributing
 
-### 项目简介
-
-一个本地优先的 Python 工具包，将中文银行流水 PDF 转换为清晰的英文文档，同时尽可能保留原始版式。
-
-**输入** → **输出**
-- 中文工商银行流水 PDF → 英文 PDF（保留版式）
-- 可选：结构化英文 Excel
-
-### 核心优势
-
-| 功能 | 说明 |
-|------|------|
-| 🏦 **银行优化** | 500+ 银行与支付术语，专为工行流水优化 |
-| 🎨 **版式保留** | 保留印章、二维码、表格等关键元素 |
-| 🔍 **智能 OCR** | 百度 PaddleOCR 处理扫描件 |
-| 📦 **双格式输出** | 支持 PDF 和 Excel 两种格式 |
-| ⚡ **缓存加速** | 重复处理提速 10 倍 |
-| 🐳 **Docker 部署** | 一键容器化部署 |
-
-### 支持银行
-
-- ✅ 中国工商银行 (ICBC)
-- 🔄 更多银行开发中
-
-### 快速开始
-
-```bash
-# 1. 安装依赖
-pip install -r requirements.txt
-
-# 2. 配置 API 密钥
-cp .env.example .env
-# 编辑 .env 填入：
-#   - ZHIPU_API_KEY (来自 https://open.bigmodel.cn/)
-#   - OCR_TOKEN (来自 https://aistudio.baidu.com/)
-
-# 3. 翻译 PDF
-python run_word_translator_pipeline.py "流水.pdf" -o "流水_en.pdf"
-```
-
-### 使用方式
-
-```bash
-# PDF 翻译
-python run_word_translator_pipeline.py "input.pdf" -o "output.pdf"
-
-# Streamlit 界面
-streamlit run app.py
-
-# 命令行
-python cli.py --help
-
-# 运行测试
-pytest tests -v
-```
-
-### 项目结构
-
-```
-bank_statement_translator/
-├── app.py                     # Streamlit 界面
-├── cli.py                     # 命令行入口
-├── run_word_translator_pipeline.py  # 简单 PDF→PDF 命令
-├── word_translator.py         # 主翻译流程
-├── word_layout.py            # PDF 布局与渲染
-├── translator.py             # 文本翻译逻辑
-├── glossary.py              # 术语表构建
-├── terms/                   # 银行与支付术语
-│   ├── banking_terms.py
-│   ├── payment_terms.py
-│   └── readable_terms.py
-├── pdf_parser.py            # PDF 文本提取
-├── statement_structurer.py   # 流水行解析
-├── excel_generator.py       # Excel 导出
-└── tests/                   # 测试套件
-```
-
-### 环境变量
-
-| 变量 | 必需 | 说明 |
-|------|------|------|
-| `ZHIPU_API_KEY` | ✅ | 智谱 GLM API 密钥 |
-| `OCR_TOKEN` | ✅ | 百度 PaddleOCR 令牌 |
-| `ZHIPU_MODEL` | ❌ | 翻译模型（默认：glm-4-flash） |
-| `TARGET_LANGUAGE` | ❌ | 目标语言（默认：English） |
-
-### 开发命令
-
-```bash
-make install    # 安装依赖
-make test       # 运行测试
-make lint       # 代码检查
-make format     # 代码格式化
-make run        # 启动 Streamlit
-make translate  # 快速翻译
-```
-
-### 许可证
-
-MIT 许可证 - 详见 [LICENSE](LICENSE)
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
