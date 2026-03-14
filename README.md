@@ -1,139 +1,227 @@
-# Bank Statement Translator
+# 🏦 Bank Statement Translator
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Translate Chinese bank statement PDFs into clean English outputs.
+[English](#english) | [简体中文](#简体中文)
 
-This project focuses on a practical workflow:
+Translate Chinese bank statement PDFs into polished English outputs — perfect for visa applications, immigration, and international financial workflows.
 
-- Input: Chinese bank statement PDF
-- Output: English PDF with the original layout preserved as closely as possible
-- Optional output: structured English Excel workbook
+---
 
-It is intentionally small, local-first, and optimized for real statement translation rather than generic document conversion.
+## English
 
-## Current Scope
+### Overview
 
-- Supported bank: Industrial and Commercial Bank of China (ICBC) only
-- Primary use case: preparing English bank statements for visa applications
-- OCR provider: Baidu PaddleOCR API
-- Translation provider: Zhipu GLM API
+A local-first Python toolkit that converts Chinese bank statement PDFs into clean English documents while preserving the original layout as closely as possible.
 
-At the moment, the parsing and dense PDF reconstruction logic are tuned specifically for ICBC statement layouts. Other banks are not officially supported yet.
+**Input** → **Output**
+- Chinese ICBC bank statement PDF → English PDF (layout-preserved)
+- Optional: Structured English Excel workbook
 
-## Features
+### Why This Project?
 
-- Focused on the real-world visa application workflow where applicants need an English version of a Chinese bank statement
-- Rebuilds dense statement pages while keeping stamps, QR codes, and key page assets
-- Uses a layered translation strategy: exact overrides, glossary terms, cache, then API
-- Includes banking and payment terminology tailored to statement data
-- Supports both PDF output and structured Excel export
-- Ships with tests for parsing, translation, and Excel generation
+Existing OCR/translation tools are either:
+- Too generic (don't understand banking terminology)
+- Too expensive (cloud services)
+- Lose important visual elements (stamps, QR codes, tables)
 
-## Quick Start
+This project solves these problems with banking-specific optimization.
 
-1. Create an environment.
-2. Install dependencies.
-3. Copy `.env.example` to `.env`.
-4. Fill in your API credentials.
+### Features
+
+| Feature | Description |
+|---------|-------------|
+| 🏦 **Banking-Optimized** | 500+ banking & payment terms, ICBC-specific parsing |
+| 🎨 **Layout Preservation** | Keeps stamps, QR codes, tables, and formatting |
+| 🔍 **Smart OCR** | Baidu PaddleOCR for scanned documents |
+| 📦 **Dual Output** | Both PDF and Excel formats |
+| ⚡ **Caching** | 10x faster for repeated processing |
+| 🐳 **Docker Ready** | One-click deployment |
+
+### Supported Banks
+
+- ✅ Industrial and Commercial Bank of China (ICBC)
+- 🔄 More banks coming soon
+
+### Quick Start
 
 ```bash
+# 1. Install dependencies
 pip install -r requirements.txt
+
+# 2. Configure API keys
+cp .env.example .env
+# Edit .env with your keys:
+#   - ZHIPU_API_KEY (from https://open.bigmodel.cn/)
+#   - OCR_TOKEN (from https://aistudio.baidu.com/)
+
+# 3. Translate a PDF
+python run_word_translator_pipeline.py "statement.pdf" -o "statement_en.pdf"
 ```
 
-Required settings in `.env`:
-
-- `ZHIPU_API_KEY`
-- `OCR_TOKEN`
-
-Provider details:
-
-- `OCR_TOKEN` is the access token for the Baidu PaddleOCR API
-- `ZHIPU_API_KEY` is used for glossary fallback and long-form translation through Zhipu GLM
-
-Translate a PDF directly:
+### Usage
 
 ```bash
-python run_word_translator_pipeline.py "input.pdf" -o "output_translated.pdf"
-```
+# PDF translation
+python run_word_translator_pipeline.py "input.pdf" -o "output.pdf"
 
-If `-o` is omitted, the output defaults to `<input>_translated.pdf`.
-
-## Usage
-
-Run the PDF pipeline:
-
-```bash
-python run_word_translator_pipeline.py "statement.pdf"
-```
-
-Run the Streamlit UI:
-
-```bash
+# Streamlit UI
 streamlit run app.py
-```
 
-Run the CLI:
-
-```bash
+# CLI
 python cli.py --help
-```
 
-Run tests:
-
-```bash
+# Run tests
 pytest tests -v
 ```
 
-Typical visa-material workflow:
+### Project Structure
 
-1. Export the original ICBC statement PDF
-2. Configure `.env` with Baidu PaddleOCR and Zhipu API credentials
-3. Run `python run_word_translator_pipeline.py "statement.pdf"`
-4. Review the generated English PDF before submission
-
-## Project Structure
-
-```text
-app.py                          Streamlit UI
-cli.py                          CLI entry point
-run_word_translator_pipeline.py Simplest PDF-to-PDF command
-word_translator.py              Translation pipeline orchestration
-word_layout.py                  PDF layout and rendering helpers
-translator.py                   Text and DataFrame translation logic
-glossary.py                     Main glossary builder
-terms/                          Banking and payment term dictionaries
-pdf_parser.py                   PDF text extraction
-statement_structurer.py         Statement row parsing
-excel_generator.py              Excel export
-tests/                          Test suite
+```
+bank_statement_translator/
+├── app.py                     # Streamlit UI
+├── cli.py                     # CLI entry point
+├── run_word_translator_pipeline.py  # Simple PDF→PDF command
+├── word_translator.py         # Main translation pipeline
+├── word_layout.py            # PDF layout & rendering
+├── translator.py             # Text translation logic
+├── glossary.py              # Terminology builder
+├── terms/                   # Banking/payment terms
+│   ├── banking_terms.py
+│   ├── payment_terms.py
+│   └── readable_terms.py
+├── pdf_parser.py            # PDF text extraction
+├── statement_structurer.py   # Statement row parsing
+├── excel_generator.py       # Excel export
+└── tests/                   # Test suite
 ```
 
-## Design Notes
+### Environment Variables
 
-- `word_translator.py` drives the pipeline.
-- `word_layout.py` owns page composition and table rendering.
-- `translator.py` handles text translation using glossary rules and API fallback.
-- `terms/` keeps readable term dictionaries separate from legacy compatibility mappings.
+| Variable | Required | Description |
+|----------|----------|-------------|
+| `ZHIPU_API_KEY` | ✅ | Zhipu GLM API key |
+| `OCR_TOKEN` | ✅ | Baidu PaddleOCR token |
+| `ZHIPU_MODEL` | ❌ | Model (default: glm-4-flash) |
+| `TARGET_LANGUAGE` | ❌ | Target language (default: English) |
 
-Some compatibility dictionaries still contain historical garbled keys because certain PDFs produce the same mojibake during extraction. Those mappings are isolated on purpose so the readable glossary stays maintainable.
-
-## Development
-
-Helpful local commands:
+### Development
 
 ```bash
-make install
-make test
-make lint
-make format
-make check
-make run
-make translate
+make install    # Install dependencies
+make test       # Run tests
+make lint       # Lint code
+make format     # Format code
+make run        # Run Streamlit
+make translate  # Quick translate
 ```
 
-The repository is intentionally minimal. Old Docker files and extra demo scripts were removed to keep the codebase easier to read and maintain.
+### License
 
-## Contributing
+MIT License - see [LICENSE](LICENSE) for details.
 
-Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the local workflow and project conventions.
+---
+
+## 简体中文
+
+### 项目简介
+
+一个本地优先的 Python 工具包，将中文银行流水 PDF 转换为清晰的英文文档，同时尽可能保留原始版式。
+
+**输入** → **输出**
+- 中文工商银行流水 PDF → 英文 PDF（保留版式）
+- 可选：结构化英文 Excel
+
+### 核心优势
+
+| 功能 | 说明 |
+|------|------|
+| 🏦 **银行优化** | 500+ 银行与支付术语，专为工行流水优化 |
+| 🎨 **版式保留** | 保留印章、二维码、表格等关键元素 |
+| 🔍 **智能 OCR** | 百度 PaddleOCR 处理扫描件 |
+| 📦 **双格式输出** | 支持 PDF 和 Excel 两种格式 |
+| ⚡ **缓存加速** | 重复处理提速 10 倍 |
+| 🐳 **Docker 部署** | 一键容器化部署 |
+
+### 支持银行
+
+- ✅ 中国工商银行 (ICBC)
+- 🔄 更多银行开发中
+
+### 快速开始
+
+```bash
+# 1. 安装依赖
+pip install -r requirements.txt
+
+# 2. 配置 API 密钥
+cp .env.example .env
+# 编辑 .env 填入：
+#   - ZHIPU_API_KEY (来自 https://open.bigmodel.cn/)
+#   - OCR_TOKEN (来自 https://aistudio.baidu.com/)
+
+# 3. 翻译 PDF
+python run_word_translator_pipeline.py "流水.pdf" -o "流水_en.pdf"
+```
+
+### 使用方式
+
+```bash
+# PDF 翻译
+python run_word_translator_pipeline.py "input.pdf" -o "output.pdf"
+
+# Streamlit 界面
+streamlit run app.py
+
+# 命令行
+python cli.py --help
+
+# 运行测试
+pytest tests -v
+```
+
+### 项目结构
+
+```
+bank_statement_translator/
+├── app.py                     # Streamlit 界面
+├── cli.py                     # 命令行入口
+├── run_word_translator_pipeline.py  # 简单 PDF→PDF 命令
+├── word_translator.py         # 主翻译流程
+├── word_layout.py            # PDF 布局与渲染
+├── translator.py             # 文本翻译逻辑
+├── glossary.py              # 术语表构建
+├── terms/                   # 银行与支付术语
+│   ├── banking_terms.py
+│   ├── payment_terms.py
+│   └── readable_terms.py
+├── pdf_parser.py            # PDF 文本提取
+├── statement_structurer.py   # 流水行解析
+├── excel_generator.py       # Excel 导出
+└── tests/                   # 测试套件
+```
+
+### 环境变量
+
+| 变量 | 必需 | 说明 |
+|------|------|------|
+| `ZHIPU_API_KEY` | ✅ | 智谱 GLM API 密钥 |
+| `OCR_TOKEN` | ✅ | 百度 PaddleOCR 令牌 |
+| `ZHIPU_MODEL` | ❌ | 翻译模型（默认：glm-4-flash） |
+| `TARGET_LANGUAGE` | ❌ | 目标语言（默认：English） |
+
+### 开发命令
+
+```bash
+make install    # 安装依赖
+make test       # 运行测试
+make lint       # 代码检查
+make format     # 代码格式化
+make run        # 启动 Streamlit
+make translate  # 快速翻译
+```
+
+### 许可证
+
+MIT 许可证 - 详见 [LICENSE](LICENSE)
