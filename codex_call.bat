@@ -1,0 +1,2 @@
+@echo off
+mcporter call "codex.codex" prompt="Write a professional GitHub README profile. Highlight LLM expertise (SFT fine-tuning, RLHF, reinforcement learning). Two internships: Zhipu AI (LLM Algorithm Intern - SFT fine-tuning and RL), China TeleAI (multimodal large models). Tech stack: PyTorch, DeepSpeed, vLLM, SGLang, HuggingFace. Achievements: Kaggle Silver Medal, NIPS paper. English only, with badges. Output markdown only." model="gpt-5.1"

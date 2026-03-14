@@ -1,0 +1,10 @@
+Write a professional GitHub README profile for me. Requirements: 
+1. English only. 
+2. Highlight my expertise in LLM (Large Language Models) - focusing on SFT fine-tuning, RLHF, reinforcement learning, and multimodal models. 
+3. Two internships: 
+   - Zhipu AI (智谱华章) - LLM Algorithm Intern working on SFT fine-tuning and reinforcement learning
+   - China TeleAI (中国电信) - working on multimodal large models
+4. Include tech stack: PyTorch, DeepSpeed, vLLM, SGLang, HuggingFace. 
+5. Include achievements: Kaggle Silver Medal, NIPS paper submission. 
+6. Make it visually appealing with badges. 
+Output just the markdown content, no explanation.

@@ -1,0 +1,950 @@
+  <!DOCTYPE html>
+  <html >
+    <head>
+      <meta charset="utf-8">
+      <meta rel="search"
+            type="application/opensearchdescription+xml"
+            href="/open_search.xml"
+            title="Academia.edu">
+      <meta content="width=device-width, initial-scale=1" name="viewport">
+      <meta name="google-site-verification" content="bKJMBZA7E43xhDOopFZkssMMkBRjvYERV-NaN4R6mrs">
+
+      <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bo1mew7bfezbojleoOk28smEkSnxlSjUjpkskgmpecrlegsxe93iPs24U2igO_1ST1R1sNSieommU9dPFwjejQ" />
+      <meta name="citation_title" content="Effect of Household detergents (Surfactants)Degraded through aquatic fungi" />
+<meta name="citation_author" content="Dr Amiy Chaturvedi" />
+<meta property="fb:app_id" content="2369844204" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi" />
+<meta property="og:title" content="Effect of Household detergents (Surfactants)Degraded through aquatic fungi" />
+<meta property="og:image" content="http://a.academia-assets.com/images/open-graph-icons/fb-paper.gif" />
+<meta property="og:description" content="Commercial household detergents are diverse group of chemical that is best known for their wide used in laundry industries and household cleaning product. After use, residuals (Surfactant) detergents are discharge into sewage system directly or" />
+<meta property="article:author" content="https://independent.academia.edu/DrAmiyChaturvedi" />
+<meta name="description" content="Commercial household detergents are diverse group of chemical that is best known for their wide used in laundry industries and household cleaning product. After use, residuals (Surfactant) detergents are discharge into sewage system directly or" />
+
+        <script>
+    window.__autoProps = window.__autoProps || {};
+  </script>
+
+
+
+      <title>(PDF) Effect of Household detergents (Surfactants)Degraded through aquatic fungi</title>
+
+        <link rel="canonical" href="https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi" />
+
+
+      
+
+      
+<script>
+  var $controller_name = 'single_work';
+  var $action_name = "show";
+  var $rails_env = 'production';
+  var $app_rev = '1bc2a757d3525fd065adfa2c8213380b0267eae1';
+  var $domain = 'academia.edu';
+  var $app_host = "academia.edu";
+  var $asset_host = "academia-assets.com";
+  var $recaptcha_key = "6LdxlRMTAAAAADnu_zyLhLg0YF9uACwz78shpjJB";
+  var $recaptcha_invisible_key = "6Lf3KHUUAAAAACggoMpmGJdQDtiyrjVlvGJ6BbAj";
+  var $disableClientRecordHit = false;
+  // auvid cookie used for analytics tracking - must be globally available for all bundles
+  var $auvid = "MTc3MzI2MDYxMzI1NzowLjEzNTYwOTI4NDAxMjg1MjQ0";
+  var $route_uri_pattern = '(/:language)/:id(/:slug)(.:format)';
+
+</script>
+
+
+      <script>
+        window.Aedu = window.Aedu || {};
+        window.Aedu.hit_data = null;
+        window.Aedu.serverRenderTime = new Date(1773260614000);
+      </script>
+
+        <link rel="stylesheet" href="//a.academia-assets.com/assets/simpler/logged_out_header-9080beec8106d06ae6309731785d791d9dc265002989b05cb848af938bd67e1e.css" media="all" />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-5VKX33P2DS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5VKX33P2DS', {
+    cookie_domain: 'academia.edu',
+    send_page_view: false,
+  });
+  gtag('event', 'page_view', {
+    'controller': "single_work",
+    'action': "show",
+    'controller_action': 'single_work#show',
+    'logged_in': 'false',
+    'edge': 'unknown',
+    // Send nil if there is no A/B test bucket, in case some records get logged
+    // with missing data - that way we can distinguish between the two cases.
+    // ab_test_bucket should be of the form <ab_test_name>:<bucket>
+    'ab_test_bucket': null,
+  })
+</script>
+
+
+
+      
+
+
+      <script>
+        window.Aedu.SiteStats = {"monthly_visitor_count_in_millions":31,"paper_count_in_millions":55}
+      </script>
+
+
+      <script type="application/ld+json">{"@context":"https://schema.org","@type":"ScholarlyArticle","abstract":"Commercial household detergents are diverse group of chemical that is best known for their wide used in laundry industries and household cleaning product. After use, residuals (Surfactant) detergents are discharge into sewage system directly or indirectly into the surface water and most of them end up dispersed into the different environment compartment of soil and water.”Water is facing lots of problems due to domestic waste. These toxic effects of surfactant damaging biodiversity of aquatic environment. Most of aquatic microorganism develops a bio-mechanism for degradation of harmful heavy metals discharge in water at high level. As we know that aquatic environment specially water “fungi” have excellent potential for metal accumulation, particularly genera of Rhizopus, Aspergillus, Streptoverticillum, Sacchromyctes. In general most of commercial household (Surfactants) detergents are biodegradable and amount of it can be commerciallyreduced by secondary treatment of Municipal sewage waste water plants. These discharge waste water pollutants with massive quantities especially surfactant could be a serious threat to aquatic ecosystem. Future studies of Commercial Surfactant toxicities and biodegradation are necessary to withdraw high toxic and non-biodegradableheavy metal for commercial use as a result makes an eco-friendly environment. Keywords: Biodegradation, Surfactant Toxicity, Heavy metals, Municipal sewage waste.","author":[{"@context":"https://schema.org","@type":"Person","name":"Dr Amiy Chaturvedi","url":"https://independent.academia.edu/DrAmiyChaturvedi","image":"https://0.academia-photos.com/4924081/6679153/7546286/s200_dr_amiy.chaturvedi.jpg","sameAs":[]}],"contributor":[],"dateCreated":"2015-01-12","dateModified":"2015-01-12","headline":"Effect of Household detergents (Surfactants)Degraded through aquatic fungi","image":"https://attachments.academia-assets.com/36238406/thumbnails/1.jpg","inLanguage":"en","keywords":["Metagenomics, Molecular Microbiology (PCR, Sanger-Sequencing, NGS), Cellular and Molecular Biology, Genomics, Cell Dynamics, etc"],"publisher":{"@context":"https://schema.org","@type":"Organization","name":null},"sourceOrganization":[{"@context":"https://schema.org","@type":"EducationalOrganization","name":null}],"thumbnailUrl":"https://attachments.academia-assets.com/36238406/thumbnails/1.jpg","url":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi"}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","about":{"@type":"ScholarlyArticle","name":"Effect of Household detergents (Surfactants)Degraded through aquatic fungi","url":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi"},"mainEntity":[{"@type":"Question","name":"What fungi species were effective in degrading household detergents?","acceptedAnswer":{"@type":"Answer","text":"The study identified 58 fungal species, predominantly 50 anamorphic fungi, with significant potential for detergent degradation."}},{"@type":"Question","name":"How were fungal populations affected by detergent concentrations?","acceptedAnswer":{"@type":"Answer","text":"Increasing detergent concentrations negatively impacted the biomass of the dominant fungal species identified in wastewater."}},{"@type":"Question","name":"What methodology was used to assess detergent degradation by fungi?","acceptedAnswer":{"@type":"Answer","text":"Detergent degradation was evaluated through optical density measurements before and after fungal inoculation in wastewater samples."}},{"@type":"Question","name":"What are the implications of fungi on domestic wastewater treatment?","acceptedAnswer":{"@type":"Answer","text":"Fungi can play a crucial role in bioremediation, potentially removing harmful surfactants from domestic wastewater."}},{"@type":"Question","name":"How do synthetic detergents impact aquatic ecosystems according to this study?","acceptedAnswer":{"@type":"Answer","text":"Synthetic detergents have been found to significantly disrupt aquatic ecosystems, affecting microbial populations essential for nutrient cycling."}}]}</script><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/default_tokens/rebrand-89afffb91e093c5385bc943212566acb82d8da08820977c439fbb6656b3d411c.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/single_work_page/loswp_redesigns/ungated_variant-396bbd21fb1213413912bc4f8905c077ab09f4e6f899c0094ab7368fc7fa8fa0.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/heading-95367dc03b794f6737f30123738a886cf53b7a65cdef98a922a98591d60063e3.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/body-c50f5ab98832f511df8842993148351135752147645352dc0b07c369bcb29ab7.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/button-4d6745f84a0a0d8316c46d93a0bc87b9c96d3bce729ca2b864b618764cddd832.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/text_button-d1941ab08e91e29ee143084c4749da4aaffa350a2ac6eec2306b1d7a352d911a.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/single_work_page/accordion-db99f5a0fda3c12c056b88b46879e95c504112cd02807f4c526634dfb6529288.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/single_work_page/ai_label-ce27a6e5844b0ce31dcb42cc62f5f415c06ca204b3d13705c41e2471d0fb65fd.css" media="all" /><link rel="stylesheet" href="//a.academia-assets.com/assets/single_work_page/ordered_list-9123030494f589694fc98dd7b689a70398eb527516b541b1c648dce5ab690c12.css" media="all" /><link as="fetch" crossorigin="anonymous" href="https://attachments.academia-assets.com/36238406/1.html" rel="preload" /><link rel="stylesheet" href="//a.academia-assets.com/assets/about_hiring/footer-4b1d1471325a90ac5ba51422db929bc292e3d4469d0fabb80d93ab2310ff2719.css" media="all" /><link rel="preload" href="//a.academia-assets.com/fonts/design_system/DM-Sans_100-1000_normal_latin.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="//a.academia-assets.com/fonts/design_system/Gupter_400_normal_latin.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="//a.academia-assets.com/fonts/design_system/Material-Symbols-Outlined.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="//a.academia-assets.com/fonts/design_system/Roboto_100-900_normal_latin.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/font-faces-2356cee1de094354769ab30bf9bb930e5f4cdeb0a4f2cce7272a440eecfa7de9.css" media="all" /><style>.material-symbols-outlined {
+  visibility: hidden;
+  max-width: 20px; /* Our default icon size */
+}
+html.ms-loaded .material-symbols-outlined {
+  visibility: visible;
+  max-width: none;
+}</style><script>(async () => {
+  await document.fonts.load('24px "Material Symbols Outlined"');
+  document.documentElement.classList.add("ms-loaded");
+})();</script><link rel="stylesheet" href="//a.academia-assets.com/assets/design_system/common-ae6595f765bfa5b551eb44e15de4953d346eabbc005f6ab5a79f366ea5d2b70b.css" media="all" />
+
+      <script src="https://a.academia-assets.com/webpack_bundles/js/runtime-202f491d0124ceaa.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/design_system-f9dbaf2a4a9895ef.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/7989-486e31eadf281475.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/1533-572b5c144fff0e3a.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/7820-ee75e5e74d137e9f.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/6293-ad98ffba551606b4.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/5537-305fdfb45d68d47c.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/8128-f0cce6b538683916.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/3135-db28ca4ed4380b56.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/6283-220efd200e88f5ca.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/249-6ad308ee1d27be6c.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/4753-ad45d0174f1bdc89.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/5466-f1ec299a8d01a63e.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/1498-450d52446b037402.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/8076-03190b35fb6dff23.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/677-85034331b248fade.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/7288-b06a22d3356f0d75.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/1567-64716cb9a0a3e614.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/8074-1a60ba27b0eacba7.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/7350-29d9cdea06e5eb11.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/3958-f6b2ae690ebf919f.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/190-679209380b7c4f2d.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/3891-2339a3ccbcae42e7.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/402-0d17c16b1d0e07c2.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/fast_loswp-798f4bf439910035.js" defer="defer"></script>
+<script src="https://a.academia-assets.com/webpack_bundles/js/qualaroo-68c57f15d4e26996.js" defer="defer"></script>
+      <link rel="stylesheet" href="https://a.academia-assets.com/webpack_bundles/css/design_system-b2656c4b610c3906.css" />
+<link rel="stylesheet" href="https://a.academia-assets.com/webpack_bundles/css/7350-c4fb6e03132e1a07.css" />
+<link rel="stylesheet" href="https://a.academia-assets.com/webpack_bundles/css/fast_loswp-81402b4be28f59b2.css" />
+    </head>
+
+    <body>
+
+      <div id='react-modal'></div>
+
+
+
+
+        <div id="google-root"></div><script>window.loadGoogle = function() {
+  if (window.InitGoogle) {
+    // google.ts already loaded, set it up.
+    window.InitGoogle("331998490334-rsn3chp12mbkiqhl6e7lu2q0mlbu0f1b");
+  } else {
+    // Set a flag for google.ts to use when it loads.
+    window.GoogleClientID = "331998490334-rsn3chp12mbkiqhl6e7lu2q0mlbu0f1b";
+  }
+};</script>
+
+      <script>window.facebookAppId = "2369844204";</script>
+
+        <link rel="stylesheet" href="//a.academia-assets.com/assets/simpler/logged_out_header-9080beec8106d06ae6309731785d791d9dc265002989b05cb848af938bd67e1e.css" media="all" /><div class="header--container" id="main-header-container"><div class="header--inner-container header--inner-container-ds2"><div class="header-ds2--left-wrapper"><div class="header-ds2--left-wrapper-inner"><a data-main-header-link-target="logo_home" href="https://www.academia.edu/"><img class="hide-on-desktop-redesign" style="height: 24px; width: 24px;" alt="Academia.edu" src="//a.academia-assets.com/images/academia-logo-redesign-2015-A.svg" width="24" height="24" /><img width="145.2" height="18" class="hide-on-mobile-redesign" style="height: 24px;" alt="Academia.edu" src="//a.academia-assets.com/images/academia-logo-redesign-2015.svg" /></a><div class="header--search-container header--search-container-ds2"><form class="js-SiteSearch-form select2-no-default-pills" action="https://www.academia.edu/search" accept-charset="UTF-8" method="get"><svg style="width: 14px; height: 14px;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="header--search-icon svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><input class="header--search-input header--search-input-ds2 js-SiteSearch-form-input" data-main-header-click-target="search_input" name="q" placeholder="Search" type="text" /></form></div></div></div><nav class="header--nav-buttons header--nav-buttons-ds2 js-main-nav"><button class="ds2-5-button ds2-5-button--secondary js-header-login-url header-button-ds2 header-login-ds2 hide-on-mobile-redesign react-login-modal-opener" data-signup-modal="{&quot;location&quot;:&quot;login-button--header&quot;}" rel="nofollow">Log In</button><button class="ds2-5-button ds2-5-button--secondary header-button-ds2 hide-on-mobile-redesign react-login-modal-opener" data-signup-modal="{&quot;location&quot;:&quot;signup-button--header&quot;}" rel="nofollow">Sign Up</button><button class="header--hamburger-button header--hamburger-button-ds2 hide-on-desktop-redesign js-header-hamburger-button"><div class="icon-bar"></div><div class="icon-bar" style="margin-top: 4px;"></div><div class="icon-bar" style="margin-top: 4px;"></div></button></nav></div><ul class="header--dropdown-container js-header-dropdown"><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/login" rel="nofollow">Log In</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/signup" rel="nofollow">Sign Up</a></li><li class="header--dropdown-row js-header-dropdown-expand-button"><button class="header--dropdown-button">more<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="caret-down" class="header--dropdown-button-icon svg-inline--fa fa-caret-down fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg></button></li><li><ul class="header--expanded-dropdown-container"><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/about">About</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/press">Press</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/documents">Papers</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/terms">Terms</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/privacy">Privacy</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/copyright">Copyright</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://www.academia.edu/hiring"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="briefcase" class="header--dropdown-row-icon svg-inline--fa fa-briefcase fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M320 336c0 8.84-7.16 16-16 16h-96c-8.84 0-16-7.16-16-16v-48H0v144c0 25.6 22.4 48 48 48h416c25.6 0 48-22.4 48-48V288H320v48zm144-208h-80V80c0-25.6-22.4-48-48-48H176c-25.6 0-48 22.4-48 48v48H48c-25.6 0-48 22.4-48 48v80h512v-80c0-25.6-22.4-48-48-48zm-144 0H192V96h128v32z"></path></svg>We&#39;re Hiring!</a></li><li class="header--dropdown-row"><a class="header--dropdown-link" href="https://support.academia.edu/hc/en-us"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="question-circle" class="header--dropdown-row-icon svg-inline--fa fa-question-circle fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zM262.655 90c-54.497 0-89.255 22.957-116.549 63.758-3.536 5.286-2.353 12.415 2.715 16.258l34.699 26.31c5.205 3.947 12.621 3.008 16.665-2.122 17.864-22.658 30.113-35.797 57.303-35.797 20.429 0 45.698 13.148 45.698 32.958 0 14.976-12.363 22.667-32.534 33.976C247.128 238.528 216 254.941 216 296v4c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12v-1.333c0-28.462 83.186-29.647 83.186-106.667 0-58.002-60.165-102-116.531-102zM256 338c-25.365 0-46 20.635-46 46 0 25.364 20.635 46 46 46s46-20.636 46-46c0-25.365-20.635-46-46-46z"></path></svg>Help Center</a></li><li class="header--dropdown-row js-header-dropdown-collapse-button"><button class="header--dropdown-button">less<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="caret-up" class="header--dropdown-button-icon svg-inline--fa fa-caret-up fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></button></li></ul></li></ul></div>
+
+      
+
+      <script>window.pageData = {
+  highlighted_claims: null
+}</script><script>window.loswp = {};
+window.loswp.shouldDetectTimezone = true;
+window.loswp.work = {"work":{"id":10123107,"created_at":"2015-01-12T03:14:03.676-08:00","from_world_paper_id":null,"updated_at":"2025-08-18T19:25:08.571-07:00","_data":{"abstract":"Commercial household detergents are diverse group of chemical that is best known for their wide used in laundry industries\nand household cleaning product. After use, residuals (Surfactant) detergents are discharge into sewage system directly or\nindirectly into the surface water and most of them end up dispersed into the different environment compartment of soil and\nwater.”Water is facing lots of problems due to domestic waste. These toxic effects of surfactant damaging biodiversity of\naquatic environment. Most of aquatic microorganism develops a bio-mechanism for degradation of harmful heavy metals\ndischarge in water at high level. As we know that aquatic environment specially water “fungi” have excellent potential for\nmetal accumulation, particularly genera of Rhizopus, Aspergillus, Streptoverticillum, Sacchromyctes. In general most of\ncommercial household (Surfactants) detergents are biodegradable and amount of it can be commerciallyreduced by\nsecondary treatment of Municipal sewage waste water plants. These discharge waste water pollutants with massive\nquantities especially surfactant could be a serious threat to aquatic ecosystem. Future studies of Commercial Surfactant\ntoxicities and biodegradation are necessary to withdraw high toxic and non-biodegradableheavy metal for commercial use as\na result makes an eco-friendly environment.\nKeywords: Biodegradation, Surfactant Toxicity, Heavy metals, Municipal sewage waste."},"document_type":"paper","pre_hit_view_count_baseline":null,"quality":"low","language":"en","title":"Effect of Household detergents (Surfactants)Degraded through aquatic fungi","broadcastable":true,"draft":null,"has_indexable_attachment":true,"indexable":true,"seo_quality":5,"owner_type":"USER_OWNED"}}["work"];
+window.loswp.previewableAttachments = [{"id":36238406,"identifier":"Attachment_36238406","shouldShowBulkDownload":false}];
+window.loswp.hasViewableAttachments = true;
+window.loswp.cwvAbTestBucket = "";
+window.loswp.designVariant = "ungated_v2";
+window.loswp.useOptimizedScribd4genScript = false;
+
+window.loginModal = {};
+window.loginModal.appleClientId = 'edu.academia.applesignon';
+window.userInChina = "false";
+window.facebookLoginDisabled = 'true';</script><script defer="" src="https://accounts.google.com/gsi/client"></script><div class="ungated-variant"><div class="ungated-variant__container"><div class="ungated-variant__left-panel"><div class="ungated-work-card-panel"><div class="ungated-work-card-panel__scrollable-content"><div class="ungated-work-card-panel__padded-content"><div class="ungated-work-card--container js-loswp-work-card" id="loswp-work-card"><div class="ungated-work-card--work-information"><div class="ungated-work-card--title-row"><h1 class="ungated-work-card--work-title ds2-5-heading-sans-serif-sm" id="title">Effect of Household detergents (Surfactants)Degraded through aquatic fungi</h1><button aria-controls="work-metadata-details" aria-expanded="false" class="ungated-work-card--info-badge js-info-badge-toggle js-loswp-info-badge" type="button"><span class="material-symbols-outlined" style="font-size: 16px" translate="no">info</span><p class="ungated-work-card--info-badge-text ds2-5-body-sm">Info</p><span class="ungated-work-card--info-badge-arrow"><span class="material-symbols-outlined ungated-work-card--info-badge-arrow-down" style="font-size: 16px" translate="no">keyboard_arrow_down</span><span class="material-symbols-outlined ungated-work-card--info-badge-arrow-up" style="font-size: 16px" translate="no">keyboard_arrow_up</span></span></button></div><div class="ungated-work-card--authors"><div class="ungated-work-card--author-avatars"><div class="ungated-work-card--author-avatar" data-tooltip-id="author-tooltip-10123107-0" id="author-avatar-10123107-0"><img alt="Dr Amiy Chaturvedi" src="https://0.academia-photos.com/4924081/6679153/7546286/tiny_dr_amiy.chaturvedi.jpg" /></div><div anchor="author-avatar-10123107-0" class="ungated-work-card--author-tooltip" id="author-tooltip-10123107-0" popover="manual">Dr Amiy Chaturvedi</div></div><div class="ungated-work-card--author-names"><a class="ungated-work-card--author-link ds2-5-body-md ds2-5-body-link js-tc-loswp--author-link--ungated-work-card" href="https://independent.academia.edu/DrAmiyChaturvedi">Dr Amiy Chaturvedi</a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (body link)';
+  }
+
+  const options = {"source":"loswp--author-link--ungated-work-card","bucket":"ungated_v2","entity_id":4924081,"extra":{"source_work_id":10123107}};
+  const link = document.querySelector('.js-tc-loswp--author-link--ungated-work-card');
+  link.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script></div></div><div class="ungated-work-card--action-buttons"><button class="ds2-5-button ds2-5-button--full-width js-tc-loswp--download-pdf-button--ungated-work-card js-login-button--260f0a6e ungated-work-card--download-btn"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">download</span>Download PDF</button><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (button)';
+  }
+
+  const options = {"source":"loswp--download-pdf-button--ungated-work-card","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}};
+  const button = document.querySelector('.js-tc-loswp--download-pdf-button--ungated-work-card');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--260f0a6e'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi?auto=download","clickTrackingContext":{"source":"loswp--download-pdf-button--ungated-work-card","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}},"configuredText":{"buttonsPage":{"header":"Download your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue with your free download."}},"registrationParams":{"user_source":"download","doc_id":36238406,"auto":"download"}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><button class="ds2-5-button ds2-5-button--secondary ds2-5-button--full-width js-tc-loswp--continue-reading-button--ungated-work-card js-login-button--d8ffe9ee ungated-work-card--view-pdf-btn"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">description</span>See full PDF</button><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (button)';
+  }
+
+  const options = {"source":"loswp--continue-reading-button--ungated-work-card","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}};
+  const button = document.querySelector('.js-tc-loswp--continue-reading-button--ungated-work-card');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--d8ffe9ee'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","clickTrackingContext":{"source":"loswp--continue-reading-button--ungated-work-card","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":36238406}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div><div class="ungated-work-card--metrics-row"><div class="ungated-work-card--metric"><span class="material-symbols-outlined ungated-work-card--metric-icon" style="font-size: 16px" translate="no">visibility</span><p class="ungated-work-card--metric-number ds2-5-body-md">614</p><p class="ungated-work-card--metric-label ds2-5-body-xs">views</p></div><div class="ungated-work-card--metric js-ungated-work-card-download-count"><script type="application/json" id="js-react-on-rails-context">{"componentRegistryTimeout":5000,"railsEnv":"production","inMailer":false,"i18nLocale":"en","i18nDefaultLocale":"en","rorVersion":"16.1.2","rorPro":true,"rorProVersion":"3.3.1","href":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","location":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","scheme":"https","host":"www.academia.edu","port":null,"pathname":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","search":null,"httpAcceptLanguage":null,"autoProps":{},"serverSide":false}</script>
+<div id="UngatedWorkCardDownloadCount-react-component-53f97b32-c11f-4ddc-9753-3cfb8a2acc66"></div>
+<script type="application/json" class="js-react-on-rails-component" id="js-react-on-rails-component-UngatedWorkCardDownloadCount-react-component-53f97b32-c11f-4ddc-9753-3cfb8a2acc66" data-component-name="UngatedWorkCardDownloadCount" data-dom-id="UngatedWorkCardDownloadCount-react-component-53f97b32-c11f-4ddc-9753-3cfb8a2acc66">{"workId":10123107}</script></div></div></div></div><div aria-hidden="true" class="ungated-work-card-panel__content-sections-wrapper js-info-badge-collapsible"><div class="ungated-variant__content-sections"><div class="ungated-variant__related-papers-section"><h2 class="safe-related-topics-flexbox--heading accordion-section__title ds2-5-heading-sans-serif-md">Related papers</h2><div class="related-papers-carousel js-related-papers-carousel"><div class="related-papers-carousel__prev-container js-prev-button-container"><button aria-label="Previous" class="related-papers-carousel__nav-button js-loswp-related-papers-carousel-prev"><span class="material-symbols-outlined" style="font-size: 24px" translate="no">arrow_back_ios</span></button></div><div class="related-papers-carousel__slides-container js-slides-container"><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="0" data-entity-id="128074015" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/128074015/The_Potential_Application_of_Selected_Fungi_Strains_in_Removal_of_Commercial_Detergents_and_Biotechnology">The Potential Application of Selected Fungi Strains in Removal of Commercial Detergents and Biotechnology</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="328511790" href="https://independent.academia.edu/VioletaJakovljevi%C4%87">Violeta Jakovljević</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--a995c455"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":128074015,"extra":{"source_work_id":128074015}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--a995c455'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/128074015/The_Potential_Application_of_Selected_Fungi_Strains_in_Removal_of_Commercial_Detergents_and_Biotechnology","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":128074015,"extra":{"source_work_id":128074015}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":121711333}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/121711333/mini_magick20250308-1-pqy9qt.png?1741423792" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="1" data-entity-id="77365475" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/77365475/Biodegradation_of_typical_laundry_wastewater_surfactants_a_review">Biodegradation of typical laundry wastewater surfactants – a review</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="35118785" href="https://uni-mb.academia.edu/SabinaFijan">Sabina Fijan</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--b21bf7e7"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":77365475,"extra":{"source_work_id":77365475}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--b21bf7e7'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/77365475/Biodegradation_of_typical_laundry_wastewater_surfactants_a_review","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":77365475,"extra":{"source_work_id":77365475}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":84738420}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/84738420/mini_magick20220423-29628-1s2busl.png?1650725935" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="2" data-entity-id="63258758" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/63258758/Degradation_of_surfactant_and_metal_removal_by_bacteria_from_a_Nigerian_laundry_environment">Degradation of surfactant and metal-removal by bacteria from a Nigerian laundry environment</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="70327525" href="https://independent.academia.edu/AbimbolaAdekanmbi">Abimbola Adekanmbi</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--4b9005e1"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":63258758,"extra":{"source_work_id":63258758}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--4b9005e1'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/63258758/Degradation_of_surfactant_and_metal_removal_by_bacteria_from_a_Nigerian_laundry_environment","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":63258758,"extra":{"source_work_id":63258758}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":75745552}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/75745552/mini_magick20211205-1976-1i0my14.png?1638714194" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="3" data-entity-id="67008121" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/67008121/Biodegradation_of_synthetic_detergents_in_wastewater">Biodegradation of synthetic detergents in wastewater</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="42039181" href="https://lasunigeria.academia.edu/OlusolaOjoomoniyi">Olusola  Ojo-omoniyi</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--7b65da46"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":67008121,"extra":{"source_work_id":67008121}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--7b65da46'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/67008121/Biodegradation_of_synthetic_detergents_in_wastewater","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":67008121,"extra":{"source_work_id":67008121}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":77990484}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/77990484/mini_magick20220103-2489-7eq0js.png?1641277191" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="4" data-entity-id="60506006" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/60506006/Characterization_of_commercial_detergents_and_natural_cleansing_agents_with_comparison_of_their_potential_for_biodegradability">Characterization of commercial detergents and natural cleansing agents with comparison of their potential for biodegradability</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="150632908" href="https://independent.academia.edu/PPadmanabha">Prabha Padmanabha</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--b9b421e0"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":60506006,"extra":{"source_work_id":60506006}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--b9b421e0'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/60506006/Characterization_of_commercial_detergents_and_natural_cleansing_agents_with_comparison_of_their_potential_for_biodegradability","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":60506006,"extra":{"source_work_id":60506006}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":73921042}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/73921042/mini_magick20211031-19946-q3n2js.png?1635665281" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="5" data-entity-id="125534975" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/125534975/The_potential_application_of_fungus_Trichoderma_harzianum_Rifai_in_biodegradation_of_detergent_and_industry">The potential application of fungus Trichoderma harzianum Rifai in biodegradation of detergent and industry</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="328511790" href="https://independent.academia.edu/VioletaJakovljevi%C4%87">Violeta Jakovljević</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--cf0bf39d"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":125534975,"extra":{"source_work_id":125534975}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--cf0bf39d'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/125534975/The_potential_application_of_fungus_Trichoderma_harzianum_Rifai_in_biodegradation_of_detergent_and_industry","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":125534975,"extra":{"source_work_id":125534975}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":119559950}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/119559950/mini_magick20241114-1-8p3t8z.png?1731573462" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="6" data-entity-id="16207406" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/16207406/Biodegradability_toxicity_and_mutagenicity_of_detergents_Integrated_experimental_evaluations">Biodegradability, toxicity and mutagenicity of detergents: Integrated experimental evaluations</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="47750335" href="https://independent.academia.edu/GozioEleonora">Gozio Eleonora</a><span>, </span><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="35315865" href="https://independent.academia.edu/GiorgioBertanza">Giorgio  Bertanza</a><span>, </span><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="45705769" href="https://independent.academia.edu/IlariaZerbini">Ilaria Zerbini</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--c1a7d306"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":16207406,"extra":{"source_work_id":16207406}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--c1a7d306'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/16207406/Biodegradability_toxicity_and_mutagenicity_of_detergents_Integrated_experimental_evaluations","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":16207406,"extra":{"source_work_id":16207406}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":42634444}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/42634444/mini_magick20190217-31973-1pz8s53.png?1550424640" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="7" data-entity-id="63761984" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/63761984/Studies_on_the_Biodegradation_of_Surfactant_Sodium_Dodecyl_Sulphate_SDS_by_Microorganism_in_Bhopal_India">Studies on the Biodegradation of Surfactant Sodium Dodecyl Sulphate (SDS) by Microorganism in Bhopal, India</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="161732450" href="https://independent.academia.edu/RakeshSaket">Rakesh Saket</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--7c95b088"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":63761984,"extra":{"source_work_id":63761984}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--7c95b088'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/63761984/Studies_on_the_Biodegradation_of_Surfactant_Sodium_Dodecyl_Sulphate_SDS_by_Microorganism_in_Bhopal_India","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":63761984,"extra":{"source_work_id":63761984}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":76078850}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/76078850/mini_magick20211210-13953-l0tp56.png?1639143147" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="8" data-entity-id="25519169" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/25519169/Isolation_and_characterization_of_synthetic_detergentdegraders_from_wastewater">Isolation and characterization of synthetic detergentdegraders from wastewater</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="42039181" href="https://lasunigeria.academia.edu/OlusolaOjoomoniyi">Olusola  Ojo-omoniyi</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--2d04daf3"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":25519169,"extra":{"source_work_id":25519169}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--2d04daf3'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/25519169/Isolation_and_characterization_of_synthetic_detergentdegraders_from_wastewater","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":25519169,"extra":{"source_work_id":25519169}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":45842258}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/45842258/mini_magick20190211-11955-1a8rhg5.png?1549882315" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="9" data-entity-id="116206305" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/116206305/Experimental_variables_in_biodegradation_of_surfactant_in_marine_environment">Experimental variables in biodegradation of surfactant in marine environment</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="42537381" href="https://uca-es.academia.edu/DMarquez">DÑA R . SOLERA</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--146b7ead"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":116206305,"extra":{"source_work_id":116206305}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--146b7ead'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/116206305/Experimental_variables_in_biodegradation_of_surfactant_in_marine_environment","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":116206305,"extra":{"source_work_id":116206305}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":112401342}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/112401342/mini_magick20240314-1-jov9iy.png?1710401834" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="10" data-entity-id="77542470" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/77542470/Biodegradation_of_Pollutants_in_Waste_Water_from_Pharmaceutical_Textile_and_Local_Dye_Effluent_in_Lagos_Nigeria">Biodegradation of Pollutants in Waste Water from Pharmaceutical, Textile and Local Dye Effluent in Lagos, Nigeria</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="4167868" href="https://unilag.academia.edu/OlumideAdebesin">Olumide Adebesin</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--930ae3d1"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":77542470,"extra":{"source_work_id":77542470}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--930ae3d1'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/77542470/Biodegradation_of_Pollutants_in_Waste_Water_from_Pharmaceutical_Textile_and_Local_Dye_Effluent_in_Lagos_Nigeria","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":77542470,"extra":{"source_work_id":77542470}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":84841807}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/84841807/mini_magick20220425-781-m9pr6q.png?1650879345" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="11" data-entity-id="91188590" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/91188590/The_Degradation_Potential_of_Some_Fungal_Isolates_on_Various_Types_of_Waste_Water">The Degradation Potential of Some Fungal Isolates on Various Types of Waste Water</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="10157805" href="https://neelain.academia.edu/ShamiBakhiet">Shami Bakhiet</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--302e05fd"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":91188590,"extra":{"source_work_id":91188590}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--302e05fd'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/91188590/The_Degradation_Potential_of_Some_Fungal_Isolates_on_Various_Types_of_Waste_Water","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":91188590,"extra":{"source_work_id":91188590}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":94546196}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/94546196/mini_magick20221120-1-1s48abm.png?1668943396" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="12" data-entity-id="61511398" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/61511398/Application_of_Electrochemical_Method_for_Removing_Anionic_Surfactant_from_Laundry_Wastewater">Application of Electrochemical Method for Removing Anionic Surfactant from Laundry Wastewater</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="88327105" href="https://independent.academia.edu/IJIRTJournal">IJIRT Journal</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--830356b7"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":61511398,"extra":{"source_work_id":61511398}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--830356b7'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/61511398/Application_of_Electrochemical_Method_for_Removing_Anionic_Surfactant_from_Laundry_Wastewater","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":61511398,"extra":{"source_work_id":61511398}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":74522101}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/74522101/mini_magick20211111-14327-wiip2h.png?1636630248" /></div></div></div><div class="related-papers-carousel__slide js-safe-related-work-related-papers"><div class="related-paper-card related-paper-card js-related-papers-carousel-card" data-collection-position="13" data-entity-id="77132026" data-sort-order="default"><div class="related-paper-card__content"><a class="related-paper-card__title js-related-papers-carousel-card-title ds2-5-body-md ds2-5-body-link" href="https://www.academia.edu/77132026/Impact_of_various_surfactant_classes_on_the_microorganism_community_used_for_WWTP_biodegradation_treatment">Impact of various surfactant classes on the microorganism community used for WWTP biodegradation treatment</a><div class="related-paper-card__metadata"><a class="js-related-papers-carousel-card-author ds2-5-body-sm ds2-5-body-link" data-author-id="36644288" href="https://independent.academia.edu/GheorgheNechifor">Gheorghe Nechifor</a></div><div class="related-paper-card__ctas"><a class="ds2-5-text-link ds2-5-text-link--inline js-tc-loswp--related-papers-carousel-download-pdf-modal js-login-button--ecdf4143"><span class="material-symbols-outlined" style="font-size: 18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (text button link)';
+  }
+
+  const options = {"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":77132026,"extra":{"source_work_id":77132026}};
+  const button = document.querySelector('.js-tc-loswp--related-papers-carousel-download-pdf-modal');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--ecdf4143'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/77132026/Impact_of_various_surfactant_classes_on_the_microorganism_community_used_for_WWTP_biodegradation_treatment","clickTrackingContext":{"source":"loswp--related-papers-carousel-download-pdf-modal","bucket":"ungated_v2","entity_id":77132026,"extra":{"source_work_id":77132026}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":84599372}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="related-paper-card__thumbnail"><img alt="" loading="lazy" class="related-paper-card__thumbnail-image" src="https://0.academia-photos.com/attachment_thumbnails/84599372/mini_magick20220421-16772-1eopo5s.png?1650529088" /></div></div></div></div><div class="related-papers-carousel__next-container js-next-button-container"><button aria-label="Next" class="related-papers-carousel__nav-button js-loswp-related-papers-carousel-next"><span class="material-symbols-outlined" style="font-size: 24px" translate="no">arrow_forward_ios</span></button></div><button class="ds2-5-button ds2-5-button--extra-small ds2-5-button--full-width related-papers-carousel__view-more-button js-safe-related-works-related-papers--view-more-button">View more papers<span class="material-symbols-outlined" style="font-size: 20px" translate="no">keyboard_arrow_down</span></button></div></div><details class="accordion js-loswp-accordion" data-section-name="Abstract" id="abstract"><summary><h2 class="ds2-5-heading-sans-serif-md accordion-section__title">Abstract</h2></summary><div class="safe-abstract--container"><div class="safe-abstract--body"><style>.truncate-component {
+  position: relative;
+
+  overflow: hidden;
+  display: -webkit-box;
+  line-clamp: 16;
+  -webkit-line-clamp: 16;
+  -webkit-box-orient: vertical;
+}
+
+.toggle-truncation-button {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}</style><div class="truncate-component js-truncate-component--abstract"><p class="ds2-5-body-md">Commercial household detergents are diverse group of chemical that is best known for their wide used in laundry industries
+and household cleaning product. After use, residuals (Surfactant) detergents are discharge into sewage system directly or
+indirectly into the surface water and most of them end up dispersed into the different environment compartment of soil and
+water.”Water is facing lots of problems due to domestic waste. These toxic effects of surfactant damaging biodiversity of
+aquatic environment. Most of aquatic microorganism develops a bio-mechanism for degradation of harmful heavy metals
+discharge in water at high level. As we know that aquatic environment specially water “fungi” have excellent potential for
+metal accumulation, particularly genera of Rhizopus, Aspergillus, Streptoverticillum, Sacchromyctes. In general most of
+commercial household (Surfactants) detergents are biodegradable and amount of it can be commerciallyreduced by
+secondary treatment of Municipal sewage waste water plants. These discharge waste water pollutants with massive
+quantities especially surfactant could be a serious threat to aquatic ecosystem. Future studies of Commercial Surfactant
+toxicities and biodegradation are necessary to withdraw high toxic and non-biodegradableheavy metal for commercial use as
+a result makes an eco-friendly environment.
+Keywords: Biodegradation, Surfactant Toxicity, Heavy metals, Municipal sewage waste.</p><div class="toggle-truncation-button js-toggle-truncation-button--abstract"><button class="safe-abstract--toggle-truncation-button"><span>... </span><span class="safe-abstract--toggle-truncation-button-text">Read more</span></button></div></div></div></div></details><details class="accordion js-loswp-accordion" data-section-name="Key takeaways" id="key-takeaways"><summary><h2 class="ds2-5-heading-sans-serif-md accordion-section__title">Key takeaways</h2><div class="ai-label ai-label--ungated"><img alt="sparkles" src="//a.academia-assets.com/images/icons/sparkle.svg" width="16" height="16" /><p class="ds2-5-body-xs">AI generated</p></div></summary><div class="ds-key-takeaways--container"><div class="key-takeaways--content"><ol class="ordered-list key-takeaways--list"><li class="ordered-list--item ds2-5-body-md">Commercial household detergents contribute significantly to water pollution, threatening aquatic biodiversity.</li><li class="ordered-list--item ds2-5-body-md">Aquatic fungi demonstrate potential for biodegradation of toxic surfactants and heavy metals in wastewater.</li><li class="ordered-list--item ds2-5-body-md">Over 4.2 million tons of detergent were used annually in Western Europe a decade ago.</li><li class="ordered-list--item ds2-5-body-md">Fungi isolated from wastewater showed varied degradation rates of surfactants, with some achieving over 90% degradation.</li><li class="ordered-list--item ds2-5-body-md">Future studies must focus on eco-friendly alternatives and enhancing wastewater treatment technologies.</li></ol><script type="application/json" id="js-react-on-rails-context">{"componentRegistryTimeout":5000,"railsEnv":"production","inMailer":false,"i18nLocale":"en","i18nDefaultLocale":"en","rorVersion":"16.1.2","rorPro":true,"rorProVersion":"3.3.1","href":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","location":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","scheme":"https","host":"www.academia.edu","port":null,"pathname":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","search":null,"httpAcceptLanguage":null,"autoProps":{},"serverSide":false}</script>
+<div id="FeatureFeedback-react-component-53646e19-fda0-448d-8be9-61844c2d2a10"></div>
+<script type="application/json" class="js-react-on-rails-component" id="js-react-on-rails-component-FeatureFeedback-react-component-53646e19-fda0-448d-8be9-61844c2d2a10" data-component-name="FeatureFeedback" data-dom-id="FeatureFeedback-react-component-53646e19-fda0-448d-8be9-61844c2d2a10">{"featureName":"key_takeaways"}</script></div></div></details><details class="accordion js-loswp-accordion" data-section-name="FAQ&#39;s" id="faq"><summary><h2 class="ds2-5-heading-sans-serif-md accordion-section__title">FAQ&#39;s</h2><div class="ai-label ai-label--ungated"><img alt="sparkles" src="//a.academia-assets.com/images/icons/sparkle.svg" width="16" height="16" /><p class="ds2-5-body-xs">AI generated</p></div></summary><div class="work-faq--container"><div class="work-faq--list"><details class="work-faq--item" data-faq-number="1"><summary class="work-faq--question js-faq-question"><span class="work-faq--question-text" data-question="What fungi species were effective in degrading household detergents?">What fungi species were effective in degrading household detergents?</span><span class="material-symbols-outlined work-faq--icon" style="font-size: 18px" translate="no">add</span></summary><div class="work-faq--answer"><p class="ds2-5-body-md">The study identified 58 fungal species, predominantly 50 anamorphic fungi, with significant potential for detergent degradation.</p></div></details><details class="work-faq--item" data-faq-number="2"><summary class="work-faq--question js-faq-question"><span class="work-faq--question-text" data-question="How were fungal populations affected by detergent concentrations?">How were fungal populations affected by detergent concentrations?</span><span class="material-symbols-outlined work-faq--icon" style="font-size: 18px" translate="no">add</span></summary><div class="work-faq--answer"><p class="ds2-5-body-md">Increasing detergent concentrations negatively impacted the biomass of the dominant fungal species identified in wastewater.</p></div></details><details class="work-faq--item" data-faq-number="3"><summary class="work-faq--question js-faq-question"><span class="work-faq--question-text" data-question="What methodology was used to assess detergent degradation by fungi?">What methodology was used to assess detergent degradation by fungi?</span><span class="material-symbols-outlined work-faq--icon" style="font-size: 18px" translate="no">add</span></summary><div class="work-faq--answer"><p class="ds2-5-body-md">Detergent degradation was evaluated through optical density measurements before and after fungal inoculation in wastewater samples.</p></div></details><details class="work-faq--item" data-faq-number="4"><summary class="work-faq--question js-faq-question"><span class="work-faq--question-text" data-question="What are the implications of fungi on domestic wastewater treatment?">What are the implications of fungi on domestic wastewater treatment?</span><span class="material-symbols-outlined work-faq--icon" style="font-size: 18px" translate="no">add</span></summary><div class="work-faq--answer"><p class="ds2-5-body-md">Fungi can play a crucial role in bioremediation, potentially removing harmful surfactants from domestic wastewater.</p></div></details><details class="work-faq--item" data-faq-number="5"><summary class="work-faq--question js-faq-question"><span class="work-faq--question-text" data-question="How do synthetic detergents impact aquatic ecosystems according to this study?">How do synthetic detergents impact aquatic ecosystems according to this study?</span><span class="material-symbols-outlined work-faq--icon" style="font-size: 18px" translate="no">add</span></summary><div class="work-faq--answer"><p class="ds2-5-body-md">Synthetic detergents have been found to significantly disrupt aquatic ecosystems, affecting microbial populations essential for nutrient cycling.</p></div></details></div></div><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (FAQ)';
+  }
+
+  const faqQuestions = document.querySelectorAll('.js-faq-question');
+  const numberedFaqs = [{"answer":"The study identified 58 fungal species, predominantly 50 anamorphic fungi, with significant potential for detergent degradation.","question":"What fungi species were effective in degrading household detergents?","number":1},{"answer":"Increasing detergent concentrations negatively impacted the biomass of the dominant fungal species identified in wastewater.","question":"How were fungal populations affected by detergent concentrations?","number":2},{"answer":"Detergent degradation was evaluated through optical density measurements before and after fungal inoculation in wastewater samples.","question":"What methodology was used to assess detergent degradation by fungi?","number":3},{"answer":"Fungi can play a crucial role in bioremediation, potentially removing harmful surfactants from domestic wastewater.","question":"What are the implications of fungi on domestic wastewater treatment?","number":4},{"answer":"Synthetic detergents have been found to significantly disrupt aquatic ecosystems, affecting microbial populations essential for nutrient cycling.","question":"How do synthetic detergents impact aquatic ecosystems according to this study?","number":5}];
+  const workId = 10123107;
+
+  function trackFaqClick(faqNumber) {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        source: 'loswp--work-faq-question-clicked',
+        entity_id: workId,
+        extra: {
+          faq_number: faqNumber
+        },
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  }
+
+  faqQuestions.forEach((question) => {
+    question.addEventListener('click', () => {
+      const faqItem = question.closest('.work-faq--item');
+      const faqNumber = faqItem?.dataset.faqNumber;
+
+      if (faqNumber) {
+        trackFaqClick(parseInt(faqNumber));
+      }
+    });
+  });
+});</script></details></div></div></div></div></div></div><div class="ungated-variant__right-panel"><div class="ungated-pdf-viewer-panel"><div class="floating-badges js-floating-badges" data-desktop-hidden-outline-ids="[&quot;title&quot;,&quot;abstract&quot;,&quot;key-takeaways&quot;,&quot;figures&quot;,&quot;faq&quot;]"><div class="floating-badges__panel js-floating-outline-panel hidden"><button aria-label="Close outline" class="floating-badges__close js-floating-outline-close" type="button"><span class="material-symbols-outlined">close</span></button><div class="floating-badges__outline-container"><div class="floating-badges__progress-container"><div class="floating-badges__progress-line js-floating-progress-line"></div></div><div class="floating-badges__elements"><div class="floating-badges__element js-floating-outline-element-title" data-target-id="title"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="Title" href="#title">Title</a></div><div class="floating-badges__element js-floating-outline-element-abstract" data-target-id="abstract"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="Abstract" href="#abstract">Abstract</a></div><div class="floating-badges__element js-floating-outline-element-key-takeaways" data-target-id="key-takeaways"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="Key Takeaways" href="#key-takeaways">Key Takeaways</a></div><div class="floating-badges__element js-floating-outline-element-faq" data-target-id="faq"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="FAQs" href="#faq">FAQs</a></div><div class="floating-badges__element js-floating-outline-element-outer_page_1" data-target-id="outer_page_1"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="Introduction" href="#outer_page_1">Introduction</a></div><div class="floating-badges__element js-floating-outline-element-outer_page_3" data-target-id="outer_page_3"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="Materials and Methods" href="#outer_page_3">Materials and Methods</a></div><div class="floating-badges__element js-floating-outline-element-outer_page_3" data-target-id="outer_page_3"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="Results" href="#outer_page_3">Results</a></div><div class="floating-badges__element js-floating-outline-element-outer_page_4" data-target-id="outer_page_4"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="Discussion" href="#outer_page_4">Discussion</a></div><div class="floating-badges__element js-floating-outline-element-outer_page_5" data-target-id="outer_page_5"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="Conclusion" href="#outer_page_5">Conclusion</a></div><div class="floating-badges__element js-floating-outline-element-references" data-target-id="references"><div class="floating-badges__dot"></div><a class="floating-badges__link js-floating-outline-item js-loswp-outline-link" data-element-name="References" href="#references">References</a></div></div></div></div><div class="floating-badges__bar"><button class="ds2-5-button ds2-5-button--extra-small js-tc-loswp-ungate-floating-badge-download js-login-button--c3a3eac6 floating-badges__download"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">download</span></button><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (button)';
+  }
+
+  const options = {"source":"loswp-ungate-floating-badge-download","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}};
+  const button = document.querySelector('.js-tc-loswp-ungate-floating-badge-download');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--c3a3eac6'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi?auto=download","clickTrackingContext":{"source":"loswp-ungate-floating-badge-download","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}},"configuredText":{"buttonsPage":{"header":"Download your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue with your free download."}},"registrationParams":{"user_source":"download","doc_id":36238406,"auto":"download"}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><div class="floating-badges__badge js-page-progress"><span class="js-current-page">1</span> of 5</div><button aria-expanded="false" aria-label="Open outline" class="floating-badges__badge js-floating-outline-toggle" type="button"><span class="material-symbols-outlined">format_list_bulleted</span>Outline</button></div></div><div class="ungated-pdf-viewer-panel__pdf-header-container"><div class="ungated-pdf-viewer-panel__secondary-ctas-container"><button class="ds2-5-button ds2-5-button--extra-small js-tc-loswp-ungate-desktop-download js-login-button--3bbe7522 ungated-pdf-viewer-panel__secondary-ctas-container__primary-cta"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">download</span>Download PDF</button><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (button)';
+  }
+
+  const options = {"source":"loswp-ungate-desktop-download","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}};
+  const button = document.querySelector('.js-tc-loswp-ungate-desktop-download');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--3bbe7522'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi?auto=download","clickTrackingContext":{"source":"loswp-ungate-desktop-download","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}},"configuredText":{"buttonsPage":{"header":"Download your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue with your free download."}},"registrationParams":{"user_source":"download","doc_id":36238406,"auto":"download"}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><button class="ds2-5-button ds2-5-button--extra-small js-tc-loswp-ungate-desktop-save js-login-button--579703c8 ungated-pdf-viewer-panel__secondary-ctas-container__secondary-cta"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">bookmark_border</span>Save</button><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (button)';
+  }
+
+  const options = {"source":"loswp-ungate-desktop-save","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}};
+  const button = document.querySelector('.js-tc-loswp-ungate-desktop-save');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--579703c8'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","clickTrackingContext":{"source":"loswp-ungate-desktop-save","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":36238406}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script><script type="application/json" id="js-react-on-rails-context">{"componentRegistryTimeout":5000,"railsEnv":"production","inMailer":false,"i18nLocale":"en","i18nDefaultLocale":"en","rorVersion":"16.1.2","rorPro":true,"rorProVersion":"3.3.1","href":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","location":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","scheme":"https","host":"www.academia.edu","port":null,"pathname":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","search":null,"httpAcceptLanguage":null,"autoProps":{},"serverSide":false}</script>
+<div id="CitationButton-react-component-c6c313cf-86b9-4acc-8a10-d48117e2707e"></div>
+<script type="application/json" class="js-react-on-rails-component" id="js-react-on-rails-component-CitationButton-react-component-c6c313cf-86b9-4acc-8a10-d48117e2707e" data-component-name="CitationButton" data-dom-id="CitationButton-react-component-c6c313cf-86b9-4acc-8a10-d48117e2707e">{"workId":10123107,"source":"loswp-ungate-desktop-cite","size":"xs","buttonClassName":"ungated-pdf-viewer-panel__secondary-ctas-container__secondary-cta"}</script><button class="ds2-5-button ds2-5-button--extra-small js-tc-loswp-ungate-desktop-share js-login-button--2d6c0a59 ungated-pdf-viewer-panel__secondary-ctas-container__secondary-cta"><span class="material-symbols-outlined" style="font-size: 20px" translate="no">share</span>Share</button><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (button)';
+  }
+
+  const options = {"source":"loswp-ungate-desktop-share","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}};
+  const button = document.querySelector('.js-tc-loswp-ungate-desktop-share');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script><script>document.addEventListener('DOMContentLoaded', () => { const loginButton = document.querySelector('.js-login-button--2d6c0a59'); if (!loginButton) { throw new Error('Login button not found'); } const options = { detail: {"postLoginRedirectUrl":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","clickTrackingContext":{"source":"loswp-ungate-desktop-share","bucket":"ungated_v2","entity_id":10123107,"extra":{"source_work_id":10123107}},"configuredText":{"buttonsPage":{"header":"Read your PDF for free"},"emailEntryPage":{"subheader":"Sign up or log in to continue reading."},"emailLoginPage":{"subheader":"Log in to continue reading."},"emailRegistrationPage":{"subheader":"Sign up to continue reading."}},"registrationParams":{"user_source":"download","doc_id":36238406}} }; loginButton.addEventListener('click', () => { document.dispatchEvent(new CustomEvent('open-login-modal', options)); }); });</script></div></div><div class="ds-work--container js-loswp-embedded-document" id="loswp-embedded-document"><div id="BuildVuAttachment-react-component-e69d9414-cb08-4665-aa4f-33da03b934ab"><div id="scribd-attachment-container" class="ungated-pdf-viewer-panel__attachment Attachment-cls2_K0d Attachment-cls1_yDq" style="display:block"><div><div id="outer_page_1" class="build-vu-page Page-cls2_c9v Page-cls1_Mm1" style="aspect-ratio:850/1100"><div class="Page-cls2_Ath Page-cls1_zmC"><div style="transform:scale(1);transform-origin:left top;width:100%;height:100%"></div></div></div></div><div><div class="Attachment-cls2_LXj Attachment-cls1_3cD"><div class="SignupBanner-cls2_7CG SignupBanner-cls1_obB"><div class="SignupBanner-cls2_4zX SignupBanner-cls1_aOi"><div class="SignupBanner-cls2_P5R SignupBanner-cls1_5VY"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 80 80" width="80" height="80" color="currentColor"><path fill="#0F373A" d="M80 64.658a1.5 1.5 0 01-2.865.617c-1.878.1-4.183.401-6.48.921-2.863.648-5.662 1.62-7.597 2.91-1.937 1.291-3.504 2.915-4.584 4.577-.763 1.174-1.272 2.35-1.507 3.43a1.5 1.5 0 01-.142 2.823v.011h-.04a1.504 1.504 0 01-.39.053 1.5 1.5 0 01-.39-.053h-.18v-.06a1.5 1.5 0 01-.134-2.712c-.304-3.272-1.126-6.788-2.403-10.334-2.713 3.28-4.425 7.035-4.81 10.247a1.5 1.5 0 01-.084 2.85v.009h-.03a1.5 1.5 0 01-.39.053 1.5 1.5 0 01-.389-.053h-.19l-.001-.065a1.5 1.5 0 01-.16-2.687c-.4-3.594-1.545-7.527-3.337-11.382-2.221 3.788-3.581 7.772-3.866 11.266a1.5 1.5 0 01-.057 2.86v.008h-.032a1.5 1.5 0 01-.39.053 1.5 1.5 0 01-.388-.053h-.19l-.001-.064a1.5 1.5 0 01-.198-2.664c-.503-3.616-1.957-7.626-4.234-11.358-1.706 3.853-2.728 7.731-2.942 11.214a1.5 1.5 0 01-.046 2.864v.009h-.031a1.5 1.5 0 01-.39.053 1.5 1.5 0 01-.389-.053h-.19l-.001-.065a1.5 1.5 0 01-.264-2.623c-.627-3.344-2.366-7.078-5.13-10.215-1.151 3.473-1.836 6.885-1.991 10.025a1.501 1.501 0 01-.035 2.869v.008H23.1a1.501 1.501 0 01-.39.053c-.133 0-.264-.02-.388-.053h-.19l-.001-.064a1.5 1.5 0 01-.4-2.518c-.707-2.381-2.367-4.96-5.108-6.84-1.898-1.303-4.643-2.285-7.452-2.94a38.332 38.332 0 00-6.166-.92 1.553 1.553 0 01-1.455 1.047c-.856 0-1.55-.715-1.55-1.596 0-.881.694-1.595 1.55-1.596.704 0 1.3.484 1.488 1.146a39.29 39.29 0 016.36.945c2.858.666 5.744 1.683 7.792 3.088 2.463 1.69 4.13 3.923 5.058 6.144.269-3.06 1-6.325 2.137-9.63a21.677 21.677 0 00-1.942-1.764c-2.647-2.125-6.46-3.717-10.344-4.775-3.239-.883-6.491-1.386-9.092-1.527A1.553 1.553 0 011.55 59.2C.694 59.2 0 58.486 0 57.605c0-.882.694-1.596 1.55-1.596.702 0 1.295.48 1.486 1.139 2.686.144 6.018.66 9.326 1.561 3.944 1.075 7.907 2.712 10.707 4.96a22.55 22.55 0 011.687 1.502 53.757 53.757 0 013.212-7.052c-3.383-2.821-8.123-4.936-12.933-6.355C10.726 50.492 6.4 49.79 3.01 49.629a1.554 1.554 0 01-1.46 1.06c-.856 0-1.55-.715-1.55-1.596 0-.881.694-1.596 1.55-1.596.7 0 1.291.477 1.484 1.132 3.486.164 7.901.883 12.284 2.176 4.808 1.418 9.624 3.543 13.142 6.426a55.464 55.464 0 014.102-6.218c-4.014-3.13-9.27-5.511-14.587-7.157-5.382-1.666-10.787-2.567-14.965-2.742a1.554 1.554 0 01-1.461 1.063c-.856 0-1.55-.715-1.55-1.596 0-.881.694-1.595 1.55-1.596.698 0 1.29.476 1.484 1.13 4.28.178 9.779 1.095 15.237 2.784 5.38 1.666 10.76 4.09 14.906 7.325a50.273 50.273 0 015.034-5.487c-4.75-3.852-10.988-6.775-17.295-8.79-6.52-2.085-13.072-3.184-18.053-3.352a1.499 1.499 0 11-1.364-2.121 1.5 1.5 0 011.451 1.124c5.08.178 11.7 1.296 18.271 3.396.76.243 1.52.503 2.279.773V2.913a1.5 1.5 0 111 0v33.219a62.28 62.28 0 017.052 3.115V2.884a1.5 1.5 0 111 .056v36.845c2.31 1.27 4.475 2.693 6.406 4.272.178-.158.358-.315.542-.47V2.912a1.5 1.5 0 111 0V42.77c2.074-1.627 4.407-3.086 6.894-4.379V2.883a1.5 1.5 0 111 .056v34.946a65.607 65.607 0 017.106-2.983V2.912a1.5 1.5 0 111 0v31.646c.63-.214 1.26-.423 1.891-.619 6.717-2.085 13.483-3.191 18.663-3.361a1.499 1.499 0 111.445 1.896 1.5 1.5 0 01-1.372-.898c-5.081.162-11.776 1.25-18.439 3.318-7.036 2.185-13.987 5.447-18.957 9.813.313.272.619.549.917.83a49.176 49.176 0 014.24 4.541c4.363-3.74 10.437-6.49 16.51-8.316 5.619-1.69 11.279-2.599 15.656-2.76a1.5 1.5 0 11.075.998c-4.284.153-9.877 1.045-15.444 2.719-6.016 1.809-11.952 4.515-16.167 8.137a55.463 55.463 0 014.231 6.17c.261-.235.524-.468.792-.695 3.617-3.053 8.745-5.282 13.863-6.75 4.523-1.295 9.08-2.007 12.65-2.156a1.499 1.499 0 11.075.998c-3.484.142-7.977.839-12.45 2.12-5.053 1.45-10.029 3.629-13.493 6.553-.314.265-.62.538-.922.815a56.056 56.056 0 013.372 7.024 25.508 25.508 0 012.878-2.628c2.852-2.223 6.886-3.841 10.9-4.905 3.428-.907 6.88-1.42 9.638-1.552a1.498 1.498 0 012.947.387 1.5 1.5 0 01-2.868.61c-2.683.126-6.078.626-9.46 1.522-3.957 1.048-7.843 2.622-10.542 4.727a24.607 24.607 0 00-3.093 2.88c1.182 3.178 2.014 6.345 2.445 9.357.296-.733.683-1.471 1.153-2.194 1.156-1.779 2.821-3.5 4.868-4.865 2.084-1.389 5.02-2.394 7.931-3.052 2.333-.528 4.682-.84 6.617-.944a1.498 1.498 0 012.95.38zm-46.102.191a31.894 31.894 0 00-5.16-6.054 52.5 52.5 0 00-3.208 7.173c2.55 2.757 4.326 6.012 5.259 9.132.444-3.273 1.51-6.785 3.109-10.25zm4.606-7.802a39.73 39.73 0 00-4.385-4.724 25.4 25.4 0 00-.779-.682 54.475 54.475 0 00-4.108 6.253 32.674 32.674 0 015.167 5.909 45.625 45.625 0 014.106-6.756zm5.637-6.302a48.22 48.22 0 00-4.178-4.48 30.737 30.737 0 00-.978-.881 49.194 49.194 0 00-5.031 5.467c.286.24.566.484.839.733a40.618 40.618 0 014.333 4.636 42.463 42.463 0 015.015-5.475zm-.765 13.988a44.499 44.499 0 00-4.236-6.861 44.537 44.537 0 00-4.098 6.899c2.064 3.241 3.522 6.722 4.295 10.025.618-3.256 2.012-6.753 4.039-10.064zM49 57.723a54.494 54.494 0 00-4.23-6.2 41.564 41.564 0 00-5.009 5.512A45.43 45.43 0 0144 63.755a35.203 35.203 0 015-6.032zm3.888 8.042a54.901 54.901 0 00-3.375-7.147 34.29 34.29 0 00-4.996 6.175c1.623 3.36 2.772 6.8 3.378 10.061.804-3.027 2.547-6.259 4.993-9.089z"></path></svg></div><h2 class="SignupBanner-cls2_VxZ SignupBanner-cls1_ZUH ds2-5-heading-sans-serif-lg">Download research papers for <strong>free!</strong></h2></div><button class="ds2-5-button SignupBanner-cls2_hCz SignupBanner-cls1_zW7">Join us!<span class="material-symbols-outlined" style="font-size:20px" translate="no">arrow_forward</span></button></div></div></div><div><div class="Attachment-cls2_LXj Attachment-cls1_3cD"><aside class="RelatedPapers-cls2_Df9 RelatedPapers-cls1_VkV"><div class="RelatedPapers-cls2_Dq6 RelatedPapers-cls1_TOq"><p class="ds2-5-body-md-bold">Related papers</p></div><div class="RelatedPapers-cls2_VLe RelatedPapers-cls1_RWb"><div data-paper-url="https://www.academia.edu/67385196/F_%C3%87e%C3%A7en_1992_Physicochemical_and_biological_treatment_studies_on_surfactant_wastewaters_Water_Science_and_Technology_Vol_26_1_2_377_386" data-work-id="67385196" class="RelatedPapers-cls2_uAN RelatedPapers-cls1_BF4"><div class="RelatedPapers-cls2_DQH RelatedPapers-cls1_G1Q"><a href="https://www.academia.edu/67385196/F_%C3%87e%C3%A7en_1992_Physicochemical_and_biological_treatment_studies_on_surfactant_wastewaters_Water_Science_and_Technology_Vol_26_1_2_377_386" class="paper-card__title-link" style="text-decoration:none;color:inherit"><p class="ds2-5-body-sm-bold"><span class="RelatedPapers-cls2_CLF RelatedPapers-cls1_ysh">F.Çeçen (1992) Physicochemical and biological treatment studies on surfactant wastewaters, Water Science and Technology, Vol.26 (1/2), 377-386</span></p></a><div class="ds2-5-body-xs"><a href="https://independent.academia.edu/FCECEN" class="ds2-5-body-xs ds2-5-body-link">FERHAN CECEN</a></div><div class="RelatedPapers-cls2_qSL RelatedPapers-cls1_oSp"><a class="ds2-5-text-link ds2-5-text-link--small ds2-5-text-link--inline" href="https://www.academia.edu/67385196/F_%C3%87e%C3%A7en_1992_Physicochemical_and_biological_treatment_studies_on_surfactant_wastewaters_Water_Science_and_Technology_Vol_26_1_2_377_386"><span class="material-symbols-outlined" style="font-size:18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a></div></div><div class="RelatedPapers-cls2_x8- RelatedPapers-cls1_y1T"><img src="https://0.academia-photos.com/attachment_thumbnails/78220579/mini_magick20220106-11094-17g2cbe.png?1641481597" alt="" loading="lazy"/></div></div><div data-paper-url="https://www.academia.edu/67388689/Ecotoxicological_Behavior_of_some_Cationic_and_Amphoteric_Surfactants_Biodegradation_Toxicity_and_Risk_Assessment_" data-work-id="67388689" class="RelatedPapers-cls2_uAN RelatedPapers-cls1_BF4"><div class="RelatedPapers-cls2_DQH RelatedPapers-cls1_G1Q"><a href="https://www.academia.edu/67388689/Ecotoxicological_Behavior_of_some_Cationic_and_Amphoteric_Surfactants_Biodegradation_Toxicity_and_Risk_Assessment_" class="paper-card__title-link" style="text-decoration:none;color:inherit"><p class="ds2-5-body-sm-bold"><span class="RelatedPapers-cls2_CLF RelatedPapers-cls1_ysh">Ecotoxicological Behavior of some Cationic and Amphoteric Surfactants (Biodegradation, Toxicity and Risk Assessment)</span></p></a><div class="ds2-5-body-xs"><a href="https://independent.academia.edu/StefaniaGheorghe7" class="ds2-5-body-xs ds2-5-body-link">Stefania Gheorghe</a></div><div class="RelatedPapers-cls2_qSL RelatedPapers-cls1_oSp"><a class="ds2-5-text-link ds2-5-text-link--small ds2-5-text-link--inline" href="https://www.academia.edu/67388689/Ecotoxicological_Behavior_of_some_Cationic_and_Amphoteric_Surfactants_Biodegradation_Toxicity_and_Risk_Assessment_"><span class="material-symbols-outlined" style="font-size:18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a></div></div><div class="RelatedPapers-cls2_x8- RelatedPapers-cls1_y1T"><img src="https://0.academia-photos.com/attachment_thumbnails/78222313/mini_magick20220106-11102-dfxvn5.png?1641483222" alt="" loading="lazy"/></div></div><div data-paper-url="https://www.academia.edu/87198291/Effect_of_Detergent_Use_on_Water_Quality_in_Rewa_City_of_M_P_India_" data-work-id="87198291" class="RelatedPapers-cls2_uAN RelatedPapers-cls1_BF4"><div class="RelatedPapers-cls2_DQH RelatedPapers-cls1_G1Q"><a href="https://www.academia.edu/87198291/Effect_of_Detergent_Use_on_Water_Quality_in_Rewa_City_of_M_P_India_" class="paper-card__title-link" style="text-decoration:none;color:inherit"><p class="ds2-5-body-sm-bold"><span class="RelatedPapers-cls2_CLF RelatedPapers-cls1_ysh">Effect of Detergent Use on Water Quality in Rewa City of M.P. (India)</span></p></a><div class="ds2-5-body-xs"><a href="https://independent.academia.edu/VinodDubey5" class="ds2-5-body-xs ds2-5-body-link">Vinod  Dubey</a></div><div class="RelatedPapers-cls2_qSL RelatedPapers-cls1_oSp"><a class="ds2-5-text-link ds2-5-text-link--small ds2-5-text-link--inline" href="https://www.academia.edu/87198291/Effect_of_Detergent_Use_on_Water_Quality_in_Rewa_City_of_M_P_India_"><span class="material-symbols-outlined" style="font-size:18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a></div></div><div class="RelatedPapers-cls2_x8- RelatedPapers-cls1_y1T"><img src="https://0.academia-photos.com/attachment_thumbnails/91476860/mini_magick20220924-1-1bh5zlu.png?1664020348" alt="" loading="lazy"/></div></div><div data-paper-url="https://www.academia.edu/105166209/Study_of_Aerobic_Biodegradation_of_Surfactants_and_Fluorescent_Whitening_Agents_in_Detergents_of_a_Few_Selected_Asian_Countries_India_Indonesia_Japan_and_Thailand_" data-work-id="105166209" class="RelatedPapers-cls2_uAN RelatedPapers-cls1_BF4"><div class="RelatedPapers-cls2_DQH RelatedPapers-cls1_G1Q"><a href="https://www.academia.edu/105166209/Study_of_Aerobic_Biodegradation_of_Surfactants_and_Fluorescent_Whitening_Agents_in_Detergents_of_a_Few_Selected_Asian_Countries_India_Indonesia_Japan_and_Thailand_" class="paper-card__title-link" style="text-decoration:none;color:inherit"><p class="ds2-5-body-sm-bold"><span class="RelatedPapers-cls2_CLF RelatedPapers-cls1_ysh">Study of Aerobic Biodegradation of Surfactants and Fluorescent Whitening Agents in Detergents of a Few Selected Asian Countries (India, Indonesia, Japan, and Thailand)</span></p></a><div class="ds2-5-body-xs"><a href="https://independent.academia.edu/KeerthiKatam" class="ds2-5-body-xs ds2-5-body-link">Keerthi Katam</a></div><div class="RelatedPapers-cls2_qSL RelatedPapers-cls1_oSp"><a class="ds2-5-text-link ds2-5-text-link--small ds2-5-text-link--inline" href="https://www.academia.edu/105166209/Study_of_Aerobic_Biodegradation_of_Surfactants_and_Fluorescent_Whitening_Agents_in_Detergents_of_a_Few_Selected_Asian_Countries_India_Indonesia_Japan_and_Thailand_"><span class="material-symbols-outlined" style="font-size:18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a></div></div><div class="RelatedPapers-cls2_x8- RelatedPapers-cls1_y1T"><img src="https://0.academia-photos.com/attachment_thumbnails/104694375/mini_magick20230802-1-6mtoiv.png?1690947348" alt="" loading="lazy"/></div></div><div data-paper-url="https://www.academia.edu/99091113/Removal_of_Heavy_Metals_Contamination_By_Bio_Surfactants_Rhamnolipids_" data-work-id="99091113" class="RelatedPapers-cls2_uAN RelatedPapers-cls1_BF4"><div class="RelatedPapers-cls2_DQH RelatedPapers-cls1_G1Q"><a href="https://www.academia.edu/99091113/Removal_of_Heavy_Metals_Contamination_By_Bio_Surfactants_Rhamnolipids_" class="paper-card__title-link" style="text-decoration:none;color:inherit"><p class="ds2-5-body-sm-bold"><span class="RelatedPapers-cls2_CLF RelatedPapers-cls1_ysh">Removal of Heavy Metals Contamination By Bio-Surfactants (Rhamnolipids)</span></p></a><div class="ds2-5-body-xs"><a href="https://independent.academia.edu/MokhtarElBaseir" class="ds2-5-body-xs ds2-5-body-link">Mokhtar El-Baseir</a></div><div class="RelatedPapers-cls2_qSL RelatedPapers-cls1_oSp"><a class="ds2-5-text-link ds2-5-text-link--small ds2-5-text-link--inline" href="https://www.academia.edu/99091113/Removal_of_Heavy_Metals_Contamination_By_Bio_Surfactants_Rhamnolipids_"><span class="material-symbols-outlined" style="font-size:18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a></div></div><div class="RelatedPapers-cls2_x8- RelatedPapers-cls1_y1T"><img src="https://0.academia-photos.com/attachment_thumbnails/100270004/mini_magick20230325-1-zm2na1.png?1679780475" alt="" loading="lazy"/></div></div><div data-paper-url="https://www.academia.edu/56166003/Removal_and_Effects_of_Surfactants_in_Activated_Sludge_System" data-work-id="56166003" class="RelatedPapers-cls2_uAN RelatedPapers-cls1_BF4"><div class="RelatedPapers-cls2_DQH RelatedPapers-cls1_G1Q"><a href="https://www.academia.edu/56166003/Removal_and_Effects_of_Surfactants_in_Activated_Sludge_System" class="paper-card__title-link" style="text-decoration:none;color:inherit"><p class="ds2-5-body-sm-bold"><span class="RelatedPapers-cls2_CLF RelatedPapers-cls1_ysh">Removal and Effects of Surfactants in Activated Sludge System</span></p></a><div class="ds2-5-body-xs"><a href="https://independent.academia.edu/RoxanaBanciu2" class="ds2-5-body-xs ds2-5-body-link">Roxana Banciu</a></div><div class="RelatedPapers-cls2_qSL RelatedPapers-cls1_oSp"><a class="ds2-5-text-link ds2-5-text-link--small ds2-5-text-link--inline" href="https://www.academia.edu/56166003/Removal_and_Effects_of_Surfactants_in_Activated_Sludge_System"><span class="material-symbols-outlined" style="font-size:18px" translate="no">download</span><span class="ds2-5-text-link__content">Download free PDF</span></a></div></div><div class="RelatedPapers-cls2_x8- RelatedPapers-cls1_y1T"><img src="https://0.academia-photos.com/attachment_thumbnails/71685702/mini_magick20211007-21341-1x6uhe2.png?1633660709" alt="" loading="lazy"/></div></div></div></aside></div></div></div></div>
+<script type="application/json" class="js-react-on-rails-component" id="js-react-on-rails-component-BuildVuAttachment-react-component-e69d9414-cb08-4665-aa4f-33da03b934ab" data-component-name="BuildVuAttachment" data-dom-id="BuildVuAttachment-react-component-e69d9414-cb08-4665-aa4f-33da03b934ab">{"attachmentId":36238406,"firstPageUrl":"https://attachments.academia-assets.com/36238406/1.html","interstitials":[{"componentKey":"signup-banner","afterPage":1,"key":"signup-banner-page-1"},{"componentKey":"related-papers","afterPage":1,"key":"related-papers-page-1","papers":[{"workId":67385196,"title":"F.Çeçen (1992) Physicochemical and biological treatment studies on surfactant wastewaters, Water Science and Technology, Vol.26 (1/2), 377-386","authors":[{"name":"FERHAN CECEN","url":"https://independent.academia.edu/FCECEN","nofollow":false}],"publication":"Water Science \u0026 Technology","url":"https://www.academia.edu/67385196/F_%C3%87e%C3%A7en_1992_Physicochemical_and_biological_treatment_studies_on_surfactant_wastewaters_Water_Science_and_Technology_Vol_26_1_2_377_386","thumbnailUrl":"https://0.academia-photos.com/attachment_thumbnails/78220579/mini_magick20220106-11094-17g2cbe.png?1641481597","isDownloadable":true,"nofollow":false},{"workId":67388689,"title":"Ecotoxicological Behavior of some Cationic and Amphoteric Surfactants (Biodegradation, Toxicity and Risk Assessment)","authors":[{"name":"Stefania Gheorghe","url":"https://independent.academia.edu/StefaniaGheorghe7","nofollow":false}],"publication":"Biodegradation - Life of Science","url":"https://www.academia.edu/67388689/Ecotoxicological_Behavior_of_some_Cationic_and_Amphoteric_Surfactants_Biodegradation_Toxicity_and_Risk_Assessment_","thumbnailUrl":"https://0.academia-photos.com/attachment_thumbnails/78222313/mini_magick20220106-11102-dfxvn5.png?1641483222","isDownloadable":true,"nofollow":false},{"workId":87198291,"title":"Effect of Detergent Use on Water Quality in Rewa City of M.P. (India)","authors":[{"name":"Vinod  Dubey","url":"https://independent.academia.edu/VinodDubey5","nofollow":false}],"publication":"IOSR Journal of Applied Chemistry","url":"https://www.academia.edu/87198291/Effect_of_Detergent_Use_on_Water_Quality_in_Rewa_City_of_M_P_India_","thumbnailUrl":"https://0.academia-photos.com/attachment_thumbnails/91476860/mini_magick20220924-1-1bh5zlu.png?1664020348","isDownloadable":true,"nofollow":false},{"workId":105166209,"title":"Study of Aerobic Biodegradation of Surfactants and Fluorescent Whitening Agents in Detergents of a Few Selected Asian Countries (India, Indonesia, Japan, and Thailand)","authors":[{"name":"Keerthi Katam","url":"https://independent.academia.edu/KeerthiKatam","nofollow":false}],"publication":"Journal of Water and Environment Technology","url":"https://www.academia.edu/105166209/Study_of_Aerobic_Biodegradation_of_Surfactants_and_Fluorescent_Whitening_Agents_in_Detergents_of_a_Few_Selected_Asian_Countries_India_Indonesia_Japan_and_Thailand_","thumbnailUrl":"https://0.academia-photos.com/attachment_thumbnails/104694375/mini_magick20230802-1-6mtoiv.png?1690947348","isDownloadable":true,"nofollow":false},{"workId":99091113,"title":"Removal of Heavy Metals Contamination By Bio-Surfactants (Rhamnolipids)","authors":[{"name":"Mokhtar El-Baseir","url":"https://independent.academia.edu/MokhtarElBaseir","nofollow":false}],"publication":"Journal of chemical and pharmaceutical research","url":"https://www.academia.edu/99091113/Removal_of_Heavy_Metals_Contamination_By_Bio_Surfactants_Rhamnolipids_","thumbnailUrl":"https://0.academia-photos.com/attachment_thumbnails/100270004/mini_magick20230325-1-zm2na1.png?1679780475","isDownloadable":true,"nofollow":false},{"workId":56166003,"title":"Removal and Effects of Surfactants in Activated Sludge System","authors":[{"name":"Roxana Banciu","url":"https://independent.academia.edu/RoxanaBanciu2","nofollow":false}],"publication":"Revista de Chimie","url":"https://www.academia.edu/56166003/Removal_and_Effects_of_Surfactants_in_Activated_Sludge_System","thumbnailUrl":"https://0.academia-photos.com/attachment_thumbnails/71685702/mini_magick20211007-21341-1x6uhe2.png?1633660709","isDownloadable":true,"nofollow":false}]}],"className":"ungated-pdf-viewer-panel__attachment"}</script></div><div class="ungated-pdf-viewer-panel__references" id="references"><div class="section-card js-references-card"><div class="section-card__heading"><h2 class="section-card__heading-text ds2-5-body-md-bold">References (21)</h2></div><div class="references-card__list"><li class="references-card__list-item"><span class="references-card__list-item-text">Alexopolous C.J, Mims, C.W and Blackwell, 1979 M. Introduction Mycology 4th edition. John Wiley and Sons, New york, USA: P. 868.</span></li><li class="references-card__list-item"><span class="references-card__list-item-text">APHA (American public Health Association) 1989 Standard Method for examination of water and 17 th Ed, Washington DC, USA: American public Health Association.</span></li><li class="references-card__list-item"><span class="references-card__list-item-text">Abboud M M , khleifat KM, Batarsh M, Tarawneh KA, Al- Mustafa A, Al-Madadhah M 2007 Different optimization condition required for enhanced the biodegradation of linear alkylbenzensulphonate and sodium dodecyl sulphonate surfactant by noval consortium of Acetobactercalcoacertiicus and pantoeaagglomerans. Enzyme technology; 41:432-9.</span></li><li class="references-card__list-item"><span class="references-card__list-item-text">Banger K.C and Kapoor K.K 2005 Remediation of heavy metals from polluted sites. International Journal of Ecology and Environment Sciences. 31 (1): 39-44.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Cain Ronald B.(1994) Biodegradation of Commercial Detergent Current opinion in Biotechnology 5: 266-274.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">ChuodhryS.Ray 2008 East Calcutta Westland A. Multifaceted treasure to be pressured Environment and Ecology quantity Studies International conference on Environment Research technology (ICERT).</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Dhounib .A, Ellouz .M, Aloui and Sayad S 2005 Effect of Bioamalgamation of activated sludge with whit rot fungi in olive mills wastewater detoxification. The society for Applied Microbiology. Journal for Complication in Microbiology42: 405- 411.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Edser C. 2006 Latest Market analysis, focus on the surfactant. 5: pp 1-2.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Frayal Rani and Hammed Abdul 2005 Isolation and Characterization of various fungal strains from textile effluent of their use in bioremediation. Park. Journal of Botany 37 (4): pp1003-1008.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Hussein A, Beer A Beer, Auazaid A and Al salami Fawzia A 2011 Cellulose production of the two fungal strain isolated from trail in Saudi Arab. J.Agri. Sci. Cario19(1): 171-178.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Mandic, D. Djukic SvetlanaKalinic 2006 Effect of Different Detergent Concentrations on the Soil Microorganisms Number. ActaAgriculturaeSerbica. 22: 69-74</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">O. FasidiIsola , DamilolaQluseyi and Adeyaye 2009 Biodegradation of Agro waste by some Nigerian Whit rot Fungi. Bioresource.com 4(2): 816-824.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">OjoOlusola A and Oso Benjamin A. 2009 Isolation and Characterization of Synthetic detergent degrade from waste water. African journal of Biotechnology8 (6): 1090-1109.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Palaniswamy M, kalpana Devi M A. RashekerBanu, G R Gananaprabhal, B.V Pradeep. 2008 Purification and Characterization of alkaline protease enzyme from native isolate Aspergillusniger and its probability with commercial detergent. Indian Journal of Sciences. 7(1)</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Peterson A, Adamsson M and Dave GT. 2000 Toxicity and detoxification of Swedish detergent and soften product .Chemosphere, 41: 1611-1620.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Peterson R.A 1998 Household Chemical impact on effluents re use Water Technology Conference Convention center Brisbane. pp 1-7.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Scragg Alan 2005 Environmental Biotechnology. Oxford University press. 1-439.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Singh KS, Bajapai, M. Tyagi V.K 2006 Ammonium oxides: A review L Oleo Sci55: 99-119.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Thakur and ShekharIndu 2006 Industrial Biotechnology, Problems and RemediesI.K. International Pvt. Ltd. New Delhi 1- 319.</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Ulfig, K, Guarro.J, Cano l. Gene J, Vidal P, Figureas, M.J and Luskasik, W. 1997 Occurance of Keratinoltic fungi in sedimentation of the river Todera (Spain) FEMS Microbiology Ecology, 22 (2): 111-117</span></li><li class="references-card__list-item references-card__list-item--hidden"><span class="references-card__list-item-text">Ying G G 2006 Fate, behavior band effect of surfactant and their degradation product in the environment. Environ Int32:417-31.</span></li></div><div class="section-card__view-more"><button class="ds2-5-button ds2-5-button--extra-small js-tc-loswp-ungated-references-card-view-more section-card__view-more-btn" onclick="this.closest(&#39;.js-references-card&#39;).classList.add(&#39;references-card--expanded&#39;);">View more<span class="material-symbols-outlined" style="font-size: 20px" translate="no">arrow_downward</span></button><script>document.addEventListener('DOMContentLoaded', () => {
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+
+  const csrfToken = document.querySelector("[name='csrf-token']")?.content ??
+    getCookie('masked_csrf_token');
+  if (!csrfToken) {
+    throw 'click tracking disabled due to missing CSRF token (button)';
+  }
+
+  const options = {"source":"loswp-ungated-references-card-view-more"};
+  const button = document.querySelector('.js-tc-loswp-ungated-references-card-view-more');
+  button.addEventListener('click', () => {
+    fetch('/v0/clicks?subdomain_param=api', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-CSRF-Token': csrfToken,
+      },
+      keepalive: true,
+      mode: 'same-origin',
+      body: JSON.stringify({
+        ...options,
+        occurred_at: new Date(),
+        hit_id: window.Aedu?.hit_data?.id,
+      }),
+    });
+  });
+});</script></div></div></div></div><div class="about-footer-container"><div class="footer-grid"><div class="links-row"><div class="text-column"><div class="academia-logo"><a href="https://www.academia.edu/"><img alt="Academia" src="//a.academia-assets.com/images/design_system/academia_logo_short_white.svg" /></a></div></div><div class="responsive-two-column-container"><div class="inner-two-column-container"><ul class="single-column"><li class="header">Explore</li><li><a href="https://www.academia.edu/documents">Papers</a></li><li><a href="https://www.academia.edu/topics">Topics</a></li></ul><ul class="single-column"><li class="header">Features</li><li><a href="https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Fmentions">Mentions</a></li><li><a href="https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Fanalytics">Analytics</a></li><li><a href="https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Fresearch">PDF Packages</a></li><li><a href="https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Fsearch%2Fadvanced">Advanced Search</a></li><li><a href="https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Fsaved_searches">Search Alerts</a></li></ul></div><div class="inner-two-column-container"><ul class="single-column"><li class="header">Journals</li><li><a href="https://www.academia.edu/journals">Academia.edu Journals</a></li><li><a href="https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Fjournals%2Fsubmissions">My submissions</a></li><li><a href="https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Fjournals%2Fsubmissions%23reviewer%2Finvitations">Reviewer Hub</a></li><li><a href="https://www.academia.edu/journals/about/why-publish-with-us">Why publish with us</a></li><li><a href="https://www.academia.edu/journals/about/testimonials">Testimonials</a></li></ul><ul class="single-column"><li class="header">Company</li><li><a href="https://www.academia.edu/about">About</a></li><li><a href="https://www.academia.edu/hiring">Careers</a></li><li><a href="https://www.academia.edu/press">Press</a></li><li><a href="https://support.academia.edu/hc/en-us">Help Center</a></li><li><a href="https://www.academia.edu/terms">Terms</a></li><li><a href="https://www.academia.edu/privacy">Privacy</a></li><li><a href="https://www.academia.edu/copyright">Copyright</a></li><li><a href="https://www.academia.edu/content_policy">Content Policy</a></li></ul></div></div></div><div class="subfooter-row"><div class="academia-logo"><a href="https://www.academia.edu/"><img alt="Academia" src="//a.academia-assets.com/images/design_system/academia_logo_white.svg" /></a></div><div class="text"><div>580 California St., Suite 400</div><div>San Francisco, CA, 94104</div></div><div class="text"><div><a href="https://www.academia.edu/copyright">© 2026 Academia. All rights reserved</a></div></div></div></div></div></div></div><div data-auto_select="false" data-client_id="331998490334-rsn3chp12mbkiqhl6e7lu2q0mlbu0f1b" data-doc_id="36238406" data-landing_url="https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi" data-login_uri="https://www.academia.edu/registrations/google_one_tap" data-use_fedcm_for_prompt="true" id="g_id_onload"></div><script type="application/json" id="js-react-on-rails-context">{"componentRegistryTimeout":5000,"railsEnv":"production","inMailer":false,"i18nLocale":"en","i18nDefaultLocale":"en","rorVersion":"16.1.2","rorPro":true,"rorProVersion":"3.3.1","href":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","location":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","scheme":"https","host":"www.academia.edu","port":null,"pathname":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","search":null,"httpAcceptLanguage":null,"autoProps":{},"serverSide":false}</script>
+<div id="StickyWorkCardHeader-react-component-de393614-8c66-462e-9f59-0312d8bb6245"></div>
+<script type="application/json" class="js-react-on-rails-component" id="js-react-on-rails-component-StickyWorkCardHeader-react-component-de393614-8c66-462e-9f59-0312d8bb6245" data-component-name="StickyWorkCardHeader" data-dom-id="StickyWorkCardHeader-react-component-de393614-8c66-462e-9f59-0312d8bb6245">{"workTitle":"Effect of Household detergents (Surfactants)Degraded through aquatic fungi","workId":10123107,"designVariant":"ungated_v2"}</script><div id="StickyCtaFooter-react-component-0482430d-334a-4004-b4aa-e4fd5c396dcf"></div>
+<script type="application/json" class="js-react-on-rails-component" id="js-react-on-rails-component-StickyCtaFooter-react-component-0482430d-334a-4004-b4aa-e4fd5c396dcf" data-component-name="StickyCtaFooter" data-dom-id="StickyCtaFooter-react-component-0482430d-334a-4004-b4aa-e4fd5c396dcf">{"workId":10123107,"workUrl":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","attachmentId":36238406,"designVariant":"ungated_v2"}</script></div><script type="application/json" id="js-react-on-rails-context">{"componentRegistryTimeout":5000,"railsEnv":"production","inMailer":false,"i18nLocale":"en","i18nDefaultLocale":"en","rorVersion":"16.1.2","rorPro":true,"rorProVersion":"3.3.1","href":"https://www.academia.edu/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","location":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","scheme":"https","host":"www.academia.edu","port":null,"pathname":"/10123107/Effect_of_Household_detergents_Surfactants_Degraded_through_aquatic_fungi","search":null,"httpAcceptLanguage":null,"autoProps":{},"serverSide":false}</script>
+<div id="LoginModalManager-react-component-cfac2f1e-71ce-416d-8c54-9b4d559bb5a4"></div>
+<script type="application/json" class="js-react-on-rails-component" id="js-react-on-rails-component-LoginModalManager-react-component-cfac2f1e-71ce-416d-8c54-9b4d559bb5a4" data-component-name="LoginModalManager" data-dom-id="LoginModalManager-react-component-cfac2f1e-71ce-416d-8c54-9b4d559bb5a4">{}</script><script>window.qualarooInitialization = {"route__controller":"single_work","route__action":"show","user_id":"auvid_MTc3MzI2MDYxMzI1NzowLjEzNTYwOTI4NDAxMjg1MjQ0","premium":null,"author":null,"country":null,"is_faculty":false,"over_1_week_old":null,"account_age_in_days":null,"role":null,"is_author":null,"is_published":false,"num_works_uploaded":null,"in_ehcc":false,"in_hcc":false,"in_row":false,"premium_age_in_days":null,"num_premium_sessions":null}</script>
+
+
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9dad47130f7d7988',t:'MTc3MzI2MDYxMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"e2e8130664f84d3f9030996bb14a9a6b","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+  </html>

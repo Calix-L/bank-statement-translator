@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "skills": {
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1773173474009
+    },
+    "self-improvement": {
+      "version": "1.0.0",
+      "installedAt": 1773173524198
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773173595244
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773173700666
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773174782944
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1773174786550
+    },
+    "proactive-agent-lite": {
+      "version": "1.0.0",
+      "installedAt": 1773174791945
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773174795556
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773174867887
+    },
+    "capability-evolver": {
+      "version": "1.27.3",
+      "installedAt": 1773174987812
+    },
+    "sonoscli": {
+      "version": "1.0.0",
+      "installedAt": 1773175200941
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1773175205096
+    },
+    "nano-pdf": {
+      "version": "1.0.0",
+      "installedAt": 1773175208698
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773175212366
+    },
+    "nano-banana-pro": {
+      "version": "1.0.1",
+      "installedAt": 1773175221017
+    },
+    "ai-humanizer": {
+      "version": "2.1.0",
+      "installedAt": 1773175226309
+    },
+    "openai-whisper": {
+      "version": "1.0.0",
+      "installedAt": 1773175229874
+    },
+    "brave-api-search": {
+      "version": "3.0.2",
+      "installedAt": 1773175237048
+    },
+    "mcporter": {
+      "version": "1.0.0",
+      "installedAt": 1773175240559
+    },
+    "api-gateway-1-0-31": {
+      "version": "1.0.0",
+      "installedAt": 1773175255106
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773175377192
+    },
+    "youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1773175380599
+    },
+    "byterover": {
+      "version": "2.0.0",
+      "installedAt": 1773181375179
+    },
+    "subagent-driven-development": {
+      "version": "0.1.0",
+      "installedAt": 1773181387286
+    },
+    "using-superpowers": {
+      "version": "0.1.0",
+      "installedAt": 1773181402986
+    },
+    "pls-agent-tools": {
+      "version": "1.0.0",
+      "installedAt": 1773181409059
+    },
+    "humanize": {
+      "version": "1.0.0",
+      "installedAt": 1773181420381
+    },
+    "playwright": {
+      "version": "1.0.3",
+      "installedAt": 1773263363760
+    },
+    "cron-helper": {
+      "version": "1.0.0",
+      "installedAt": 1773263395132
+    },
+    "office": {
+      "version": "1.0.0",
+      "installedAt": 1773263574257
+    },
+    "screenshot": {
+      "version": "1.0.1",
+      "installedAt": 1773263601047
+    },
+    "openrouter-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1773263611571
+    },
+    "agent-reach": {
+      "version": "1.1.0",
+      "installedAt": 1773263622599
+    },
+    "win-mouse-native": {
+      "version": "1.0.0",
+      "installedAt": 1773264919210
+    },
+    "frontend-design-pro": {
+      "version": "1.0.0",
+      "installedAt": 1773279811125
+    },
+    "skill-creator": {
+      "version": "0.1.0",
+      "installedAt": 1773279847313
+    },
+    "stock-analysis": {
+      "version": "6.2.0",
+      "installedAt": 1773279870979
+    },
+    "clawddocs": {
+      "version": "1.2.2",
+      "installedAt": 1773279880527
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1773279905219
+    },
+    "free-ride": {
+      "version": "1.0.4",
+      "installedAt": 1773280281348
+    },
+    "model-usage": {
+      "version": "1.0.0",
+      "installedAt": 1773280290010
+    },
+    "desktop-control": {
+      "version": "1.0.0",
+      "installedAt": 1773280729889
+    },
+    "a-stock-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1773280738058
+    },
+    "xhs": {
+      "version": "1.2.5",
+      "installedAt": 1773280747411
+    },
+    "xiaohongshutools": {
+      "version": "0.1.0",
+      "installedAt": 1773280759301
+    },
+    "xiaohongshu-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1773280767852
+    },
+    "gitai-skill": {
+      "version": "1.0.2",
+      "installedAt": 1773341901426
+    },
+    "gh": {
+      "version": "0.1.0",
+      "installedAt": 1773341913594
+    },
+    "self-improving-agent": {
+      "version": "3.0.1",
+      "installedAt": 1773346615445
+    }
+  }
+}
